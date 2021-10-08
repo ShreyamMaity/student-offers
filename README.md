@@ -1,2 +1,8 @@
-# student-offers
-A Collection Of All Student Offers (If you Have a valid .edu or .ac.in account)
+<p align="center">
+<img src="https://media.giphy.com/media/3tpzkqpbVdshXX1By7/giphy.gif">  
+</p>
+
+# ALL Student Offers List
+
+ 
+
