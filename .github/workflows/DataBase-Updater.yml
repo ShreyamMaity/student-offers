@@ -14,4 +14,4 @@ jobs:
         uses: 'devorein/github-readme-learn-section-notion@master'
         with:
           database_id: '12de3ba1dd9649499cdf1479579017c6'
-          token_v2: ${{ secrets.TOKEN }} # Required only if your database is private
+    
