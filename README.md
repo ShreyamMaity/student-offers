@@ -2,12 +2,19 @@
 <img src="https://media.giphy.com/media/3tpzkqpbVdshXX1By7/giphy.gif">  
 </p>  
 
+
 #
 
 # <p align="center">ALL Student Offers List
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ShreyamMaity) [![Daily Visitors](https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.student-offers) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+#
 
 <details><summary> Click Here To Open List</summary>
 <p>
+
+###### CTRL/COmmand + F to Find anything  
+
 
 |Product|Offer Benefits|Type|
 |:------|:-------------|:---|
@@ -167,8 +174,59 @@
 
 #
 
-# <p align="center">What is this ?
+# What is this ?
 
 - **This a public database of all Student Offers Avialable**
 - **Feel Free to add more if I missed anything**
-- ****
+- **NEED CONTRIBUTORS FOR MAINTAIN THIS DATABASE**  
+  
+#
+
+# How to contribute?
+
+1. **Add a Star to this Repository**
+2. **Fork The Repo**
+3. **Add/Modify/Replace What you want**
+4. **Create A Pull Request**
+5. **Explain what You Have Done in description**s
+
+#
+
+# What Contributions are accpected?
+
+1. **Any Typo In The List of Offers**
+2. **Adding More Offers Which is not Present**
+3. **Adding Extra Genuine Information About the offer**
+4. **Fixing Broken Links**
+5. **If Any Offer is Not Working Anymore Mark It**
+6. **If Link is not working, Adding it**
+7. **Mentioning Duration Of The Offer**
+
+#
+
+# FAQ?
+
+
+- **I am just a visitor , Should I Contribute?**
+  - Definately , If you are vising the link and found any information is wrong , create a pull request fixing it
+- **I'm just a beginner , how difficult is this?**
+  - This is completly beginner friendly if you follow the instructions properly
+- **I don't want to contribute but i've found something wrong in the list.What should i do?**
+  - Just Create a Issue Requst and Any of the Contributors or Owner will fix it.
+- **Why shoud I contribute?**
+  - For helping yourself and others in future ;)
+- **Is Hacktoberfest 2021 accpecting this Repository?**
+  - Yes
+- **How can i be in the contributors list?**
+	- create a pull requst and wait for it getting accpected, and you'll be listed automatically
+
+
+
+
+
+
+<hr/>
+
+# <p align="center">Contributors
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=ShreyamMaity/student-offers) 
