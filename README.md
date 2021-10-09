@@ -14,7 +14,7 @@
 <details><summary> Click Here To Open List</summary>
 <p>
 
-###### CTRL/COmmand + F to Find anything  
+###### CTRL/Command + F to Find anything  
 
 
 |Product|Offer Benefits|Type|
