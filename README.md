@@ -1,10 +1,13 @@
 <p align="center">
 <img src="https://media.giphy.com/media/3tpzkqpbVdshXX1By7/giphy.gif">  
-</p>
+</p>  
 
-# ALL Student Offers List
+#
 
+# <p align="center">ALL Student Offers List
 
+<details><summary> Click Here To Open List</summary>
+<p>
 
 |Product|Offer Benefits|Type|
 |:------|:-------------|:---|
@@ -159,3 +162,13 @@
 |[Minecraft Educational License](https://)|Educational License of Minecraft|Game|
 
 
+</p>
+</details>  
+
+#
+
+# <p align="center">What is this ?
+
+- **This a public database of all Student Offers Avialable**
+- **Feel Free to add more if I missed anything**
+- ****
