@@ -208,7 +208,7 @@
 
 
 - **I am just a visitor , Should I Contribute?**
-  - Definately , If you are vising the link and found any information is wrong , create a pull request fixing it
+  - Definitely , If you are vising the link and found any information is wrong , create a pull request fixing it
 - **I'm just a beginner , how difficult is this?**
   - This is completly beginner friendly if you follow the instructions properly
 - **I don't want to contribute but i've found something wrong in the list.What should i do?**
