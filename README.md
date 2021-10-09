@@ -297,5 +297,3 @@
 # <p align="center">Contributors
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=ShreyamMaity/student-offers) 
-
-@@include[databse.md](./Database/database.md)
