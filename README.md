@@ -183,7 +183,7 @@
   
 #
 
-# How to contribute?
+# How to Cotribute?
 
 1. **Add a Star to this Repository**
 2. **Fork The Repo**
@@ -204,6 +204,62 @@
 7. **Mentioning Duration Of The Offer**
 
 #
+
+# Instructions to Contribute :
+
+- <details><summary> Basics of Markdown Table </summary>
+  <p>
+
+  - ![markdown table](./instructions/table.png)
+  - ![table info](./instructions/info.png)
+
+	
+   </p>
+   </details>  
+
+- <details><summary> How To Add Links </summary>
+  <p>
+
+  - ![link info](./instructions/link.png)  
+  
+  - **Change/Replace the link**
+
+  </p>
+  </details>  
+
+- <details><summary> How to Add An Offer </summary>
+  <p>
+
+   - ![Add](./instructions/add.png)  
+
+   -
+     ```bash
+     [TITLE](https://)|OFFER INFO|TYPE|
+     ```  
+
+   - **Use the format**  
+
+   - **add your own offer data**  
+
+   - **add it at the end of the list**  
+
+   - **make sure everything is genuine**  
+
+
+
+
+  </p>
+  </details>  
+
+- <details><summary> How to Edit Existing Offer </summary>
+  <p>
+
+   - ![table info](./instructions/info.png)  
+
+   - **Edit The Offer Info or Type**
+
+  </p>
+  </details>  
 
 # FAQ?
 
