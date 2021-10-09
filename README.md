@@ -178,6 +178,7 @@
 # What is this ?
 
 - **This a public database of all Student Offers Avialable**
+- **Beginner friendly Repo For Starting Your Contribution Journey**
 - **Feel Free to add more if I missed anything**
 - **NEED CONTRIBUTORS FOR MAINTAIN THIS DATABASE**  
   
