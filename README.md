@@ -4,7 +4,7 @@
 
 # ALL Student Offers List
 
-=============
+
 
 |Product|Offer Benefits|Type|
 |:------|:-------------|:---|
