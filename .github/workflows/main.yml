@@ -1,0 +1,14 @@
+name: Database Updater
+on: push
+jobs:
+  first-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Copy Paste Action
+        uses: ShreyamMaity/Copy-Paste-Action@V1.0
+        with:
+          TOKEN: ${{ secrets.TOKEN }}
+          REPOSITORY : 'student-offers'
+          COPY-FILE-LOCATION : './Database/database.md'
+          PASTE-FILE-LOCATION : './README.md'
+        # pass user input as arguments
