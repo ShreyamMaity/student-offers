@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Copy Paste Action
-        uses: ShreyamMaity/Copy-Paste-Action@V1.0
+        uses: ShreyamMaity/Copy-Paste-Action@V1.1
         with:
           TOKEN: ${{ secrets.TOKEN }}
           REPOSITORY : 'student-offers'
