@@ -1,7 +1,11 @@
 name: Database Updater
-on: push
+on: 
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 jobs:
-  first-job:
+  Update-Readme:
     runs-on: ubuntu-latest
     steps:
       - name: Copy Paste Action
