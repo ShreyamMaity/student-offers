@@ -32,7 +32,7 @@
 |[One Month](https://)|30 days subsription|Learn|
 |[Education Host](https://)|1 Years Plan + Upgrade pla discount|Cloud|
 |[Interview Cake](https://)|3 weeks Plan|Learn|
-|[MongoDB](https://)|\$200 credit + Courses + Certification|Infrastructure & APIs|
+|[MongoDB](https://www.mongodb.com/students)|\$200 credit + Courses + Certification|Infrastructure & APIs|
 |[Guthub Campus Experts](https://)|Complete Course|Learn|
 |[iconscout](https://)|1 years Subscription + 60 Premiums icons|Design|
 |[twilio](https://)|\$50 credit + APIs|Infrastructure & APIs|
