@@ -20,7 +20,7 @@
 
 #
 
-## Offers List Is Here 👇
+## Offers List Is Here 👇👇
 <details><summary> Click Here To Open List</summary>
 <p>
 
