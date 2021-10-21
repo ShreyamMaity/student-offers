@@ -95,7 +95,7 @@
 |[THINKFUL](https://)|1 Month web development|Learn|
 |[Invision App](https://)|Free while you are student|UI/UX Design|
 |[Basecamp account](https://)|Student License|Project management & team Collab|
-|[Amazon Prime Student (.com)](https://)|6 month Prime + prime videos(all region) + deals 7 discouts|Shopping|
+|[Amazon Prime Student (.com)](https://www.amazon.in/b?ie=UTF8&node=15307611031)|6 month Prime + prime videos(all region) + deals 7 discouts|Shopping|
 |[Unidays](https://)|Student Heavy Discounts|Shopping|
 |[SheerID](https://)|Student Discount|Shopping|
 |[onTheHub](https://)|Free win 10 edu if your college supports, discounts on softwares|Softwares|
