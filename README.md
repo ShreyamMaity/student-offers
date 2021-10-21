@@ -50,7 +50,7 @@
 |[Unity](https://)|Lifetime|Game Development|
 |[Jetbrains](https://)|Annual Subscription|Developer|
 |[Digital Ocean](https://)|\$50 Credit|Cloud|
-|[Bootstrap Studio](https://)|Studio Licence|Design concept|
+|[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
 |[Frontend Masters](https://)|6 Months Validity|Learn|
 |[Heroku](https://)|Hobby Dyno|Cloud|
 |[.tech Domains](https://)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
