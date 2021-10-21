@@ -52,7 +52,7 @@
 |[Digital Ocean](https://)|\$50 Credit|Cloud|
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
 |[Frontend Masters](https://)|6 Months Validity|Learn|
-|[Heroku](https://)|Hobby Dyno|Cloud|
+|[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
 |[.tech Domains](https://)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[GitKraken](https://)|GitKraken Kit Pro|Developing Tools|
 |[PomoDone](https://)|Lite Plan for 2 years|Productivity|
