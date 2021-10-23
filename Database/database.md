@@ -150,3 +150,4 @@
 |[Transifex](https://)|6 Months premium|Infrastructure & Tools|
 |[Minecraft Educational License](https://)|Educational License of Minecraft|Game|
 |[Udemy Coupons for Music Online Courses](https://)|Learn Rs 700 at Udemy|Courses|
+|[Testbook Offer for Visa Cards](https://)|Up to 60% OFF + 15% OFF on Testbook Pass|Tools & Mobile|
