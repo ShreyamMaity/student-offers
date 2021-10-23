@@ -41,15 +41,15 @@
 |[LucidChart](https://)|Lifetime free suscription|Flowchart service|
 |[Prezi](https://prezi.com/)|Lifetime Subscription|Video Conferencing App|
 |[BlackBerry QNX](https://)|LIfetime Subscription|Education|
-|[Namecheap.com](https://)|1 years .me TLD domain & 1 year SSL Certificate|Domains|
+|[Namecheap.com](https://nc.me/)|1 years .me TLD domain & 1 year SSL Certificate|Domains|
 |[Name.com](https://)|One year domain and Advance Security SSL Sertificate|Domains|
 |[AWS Educate](https://)|Starter Account worth \$100.00|Cloud|
-|[Educative](https://)|6 Months Validity with 60+ courses|Learn|
+|[Educative](https://www.educative.io/github-students)|6 Months Validity with 60+ courses|Learn|
 |[Github](https://)|Github pro package|Developer|
 |[Microsoft Azure](https://azure.microsoft.com/en-in/free/students/)|25+ microsoft cloud services + \$100.00 in Azure credit|Cloud|
 |[Unity](https://)|Lifetime|Game Development|
 |[Jetbrains](https://www.jetbrains.com/education/)|Annual Subscription|Developer|
-|[Digital Ocean](https://)|\$50 Credit|Cloud|
+|[Digital Ocean](https://www.digitalocean.com/github-students/)|\$50 Credit|Cloud|
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
 |[Frontend Masters](https://)|6 Months Validity|Learn|
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
@@ -84,7 +84,7 @@
 |[QT](https://)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://)|Stdent License|Education|
 |[cPanel](https://)|Educational License|cPanel for free but faculty only|
-|[Figma pro](https://)|Figma Pro License|UI/UX Designing|
+|[Figma pro](https://www.figma.com/education/)|Figma Pro License|UI/UX Designing|
 |[Gurobi](https://)|Student License|Business Problem Solving|
 |[Shapr3d](https://)|Student License 1 Year|3D modeling App|
 |[Gliffy](https://)|Student License|Diagram Drawing|
