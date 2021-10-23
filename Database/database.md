@@ -1,7 +1,7 @@
 |Product|Offer Benefits|Type|
 |:------|:-------------|:---|
 |[Github student developer pack](https://education.github.com/pack)|\$200K worth free software for all your development needs|Development, Art, Design etc.|
-|[AnyDesk Student](https://)|All Anydesk Product Licenses while you are student|Design, Art|
+|[AnyDesk Student](https://anydesk.com/en/education/free-for-students)|All Anydesk Product Licenses while you are student|Design, Art|
 |[Spotify premium student discount](https://)|Student Discount as low as INR66/month|Music|
 |[VS Enterprise](https://)|Visual Studio Code Enterprise Subscription|Development|
 |[Notion Pro](https://)|Notion Pro for lifetime for students|Note Taking|
@@ -10,7 +10,7 @@
 |[Canva](https://)|12 months Pro Tier subscription|Design|
 |[eSurveyCreator](https://)|Student License while you are student|Survey creation and distribution app|
 |[LucidChart](https://)|Lifetime free suscription|Flowchart service|
-|[Prezi](https://)|Lifetime Subscription|Video Conferencing App|
+|[Prezi](https://prezi.com/)|Lifetime Subscription|Video Conferencing App|
 |[BlackBerry QNX](https://)|LIfetime Subscription|Education|
 |[Namecheap.com](https://)|1 years .me TLD domain & 1 year SSL Certificate|Domains|
 |[Name.com](https://)|One year domain and Advance Security SSL Sertificate|Domains|
@@ -19,7 +19,7 @@
 |[Github](https://)|Github pro package|Developer|
 |[Microsoft Azure](https://)|25+ microsoft cloud services + \$100.00 in Azure credit|Cloud|
 |[Unity](https://)|Lifetime|Game Development|
-|[Jetbrains](https://)|Annual Subscription|Developer|
+|[Jetbrains](https://www.jetbrains.com/)|Annual Subscription|Developer|
 |[Digital Ocean](https://)|\$50 Credit|Cloud|
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
 |[Frontend Masters](https://)|6 Months Validity|Learn|
