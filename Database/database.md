@@ -2,7 +2,7 @@
 |:------|:-------------|:---|
 |[Github student developer pack](https://education.github.com/pack)|\$200K worth free software for all your development needs|Development, Art, Design etc.|
 |[AnyDesk Student](https://anydesk.com/en/education/free-for-students)|All Anydesk Product Licenses while you are student|Design, Art|
-|[Spotify premium student discount](https://)|Student Discount as low as INR66/month|Music|
+|[Spotify premium student discount](https://www.spotify.com/in-en/student/)|Student Discount as low as INR66/month|Music|
 |[VS Enterprise](https://)|Visual Studio Code Enterprise Subscription|Development|
 |[Notion Pro](https://)|Notion Pro for lifetime for students|Note Taking|
 |[Lass Pass](https://)|6 months subscription|Password Manager|
@@ -17,9 +17,9 @@
 |[AWS Educate](https://)|Starter Account worth \$100.00|Cloud|
 |[Educative](https://)|6 Months Validity with 60+ courses|Learn|
 |[Github](https://)|Github pro package|Developer|
-|[Microsoft Azure](https://)|25+ microsoft cloud services + \$100.00 in Azure credit|Cloud|
+|[Microsoft Azure](https://azure.microsoft.com/en-in/free/students/)|25+ microsoft cloud services + \$100.00 in Azure credit|Cloud|
 |[Unity](https://)|Lifetime|Game Development|
-|[Jetbrains](https://www.jetbrains.com/)|Annual Subscription|Developer|
+|[Jetbrains](https://www.jetbrains.com/education/)|Annual Subscription|Developer|
 |[Digital Ocean](https://)|\$50 Credit|Cloud|
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
 |[Frontend Masters](https://)|6 Months Validity|Learn|
