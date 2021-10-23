@@ -19,7 +19,7 @@
 |[Github](https://)|Github pro package|Developer|
 |[Microsoft Azure](https://)|25+ microsoft cloud services + \$100.00 in Azure credit|Cloud|
 |[Unity](https://)|Lifetime|Game Development|
-|[Jetbrains](https://)|Annual Subscription|Developer|
+|[Jetbrains](https://www.jetbrains.com/)|Annual Subscription|Developer|
 |[Digital Ocean](https://)|\$50 Credit|Cloud|
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
 |[Frontend Masters](https://)|6 Months Validity|Learn|
