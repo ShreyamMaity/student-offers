@@ -10,7 +10,7 @@
 |[Canva](https://)|12 months Pro Tier subscription|Design|
 |[eSurveyCreator](https://)|Student License while you are student|Survey creation and distribution app|
 |[LucidChart](https://)|Lifetime free suscription|Flowchart service|
-|[Prezi](https://)|Lifetime Subscription|Video Conferencing App|
+|[Prezi](https://prezi.com/)|Lifetime Subscription|Video Conferencing App|
 |[BlackBerry QNX](https://)|LIfetime Subscription|Education|
 |[Namecheap.com](https://)|1 years .me TLD domain & 1 year SSL Certificate|Domains|
 |[Name.com](https://)|One year domain and Advance Security SSL Sertificate|Domains|
