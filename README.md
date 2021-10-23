@@ -32,7 +32,7 @@
 |[Github student developer pack](https://education.github.com/pack)|\$200K worth free software for all your development needs|Development, Art, Design etc.|
 |[AnyDesk Student](https://anydesk.com/en/education/free-for-students)|All Anydesk Product Licenses while you are student|Design, Art|
 |[Spotify premium student discount](https://www.spotify.com/in-en/student/)|Student Discount as low as INR66/month|Music|
-|[VS Enterprise](https://)|Visual Studio Code Enterprise Subscription|Development|
+|[VS Enterprise](https://visualstudio.microsoft.com/students/)|Visual Studio Code Enterprise Subscription|Development|
 |[Notion Pro](https://)|Notion Pro for lifetime for students|Note Taking|
 |[Lass Pass](https://)|6 months subscription|Password Manager|
 |[Canva For Lifetime](https://)|Lifetime (trick)|Design|
