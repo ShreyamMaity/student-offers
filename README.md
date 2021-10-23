@@ -178,7 +178,7 @@
 |[Crowdin](https://)|12 months premium|Tools, Infrastructure , Productivity|
 |[Transifex](https://)|6 Months premium|Infrastructure & Tools|
 |[Minecraft Educational License](https://)|Educational License of Minecraft|Game|
-
+|[Udemy Coupons for Music Online Courses](https://)|Learn Rs 700 at Udemy|Courses|
 <!--END_SECTION:cp-->
 
 
