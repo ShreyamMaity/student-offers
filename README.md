@@ -29,7 +29,7 @@
 <!--START_SECTION:cp-->
 |Product|Offer Benefits|Type|
 |:------|:-------------|:---|
-|[Github student developer pack](https://)|\$200K worth free software for all your development needs|Development, Art, Design etc.|
+|[Github student developer pack](https://education.github.com/pack)|\$200K worth free software for all your development needs|Development, Art, Design etc.|
 |[AnyDesk Student](https://)|All Anydesk Product Licenses while you are student|Design, Art|
 |[Spotify premium student discount](https://)|Student Discount as low as INR66/month|Music|
 |[VS Enterprise](https://)|Visual Studio Code Enterprise Subscription|Development|
