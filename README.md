@@ -180,6 +180,7 @@
 |[Minecraft Educational License](https://)|Educational License of Minecraft|Game|
 |[Udemy Coupons for Music Online Courses](https://)|Learn Rs 700 at Udemy|Courses|
 |[Testbook Offer for Visa Cards](https://)|Up to 60% OFF + 15% OFF on Testbook Pass|Tools & Mobile|
+|[Clean My Mac](https://macpaw.com/store/cleanmymac)|30% off on lifetime edition and annual plans|Tools & PC|
 
 <!--END_SECTION:cp-->
 
