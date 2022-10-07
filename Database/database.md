@@ -4,7 +4,7 @@
 |[AnyDesk Student](https://anydesk.com/en/education/free-for-students)|All Anydesk Product Licenses while you are student|Design, Art|
 |[Spotify premium student discount](https://www.spotify.com/in-en/student/)|Student Discount as low as INR66/month|Music|
 |[VS Enterprise](https://visualstudio.microsoft.com/students/)|Visual Studio Code Enterprise Subscription|Development|
-|[Notion Pro](https://)|Notion Pro for lifetime for students|Note Taking|
+|[Notion Pro](https://www.notion.so/product/notion-for-education)|Notion Pro for lifetime for students|Note Taking|
 |[Lass Pass](https://)|6 months subscription|Password Manager|
 |[Canva For Lifetime](https://)|Lifetime (trick)|Design|
 |[Canva](https://)|12 months Pro Tier subscription|Design|
