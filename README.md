@@ -33,7 +33,7 @@
 |[AnyDesk Student](https://anydesk.com/en/education/free-for-students)|All Anydesk Product Licenses while you are student|Design, Art|
 |[Spotify premium student discount](https://www.spotify.com/in-en/student/)|Student Discount as low as INR66/month|Music|
 |[VS Enterprise](https://visualstudio.microsoft.com/students/)|Visual Studio Code Enterprise Subscription|Development|
-|[Notion Pro](https://)|Notion Pro for lifetime for students|Note Taking|
+|[Notion Pro](https://www.notion.so/product/notion-for-education)|Notion Pro for lifetime for students|Note Taking|
 |[Lass Pass](https://)|6 months subscription|Password Manager|
 |[Canva For Lifetime](https://)|Lifetime (trick)|Design|
 |[Canva](https://)|12 months Pro Tier subscription|Design|
@@ -180,6 +180,7 @@
 |[Minecraft Educational License](https://)|Educational License of Minecraft|Game|
 |[Udemy Coupons for Music Online Courses](https://)|Learn Rs 700 at Udemy|Courses|
 |[Testbook Offer for Visa Cards](https://)|Up to 60% OFF + 15% OFF on Testbook Pass|Tools & Mobile|
+
 <!--END_SECTION:cp-->
 
 
