@@ -206,7 +206,7 @@
 3. **Open database.md from Database folder**
 4. **Add/Modify/Replace What you want**
 5. **Create A Pull Request**
-6. **Explain what You Have Done in description**s
+6. **Explain what You Have Done in description**
 
 #
 
