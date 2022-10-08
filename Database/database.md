@@ -138,7 +138,7 @@
 |[Sqlsmash](https://)|Standard Plan|Developing Tools|
 |[Wisej](https://)|Premium plus plan|Infrastructure|
 |[AccessLint](https://)|Access public and Private repos|Repos|
-|[appfigures](https://)|1 year premium plan|marketing|
+|[appfigures](https://appfigures.com/landing/github-student)|1 year premium plan|marketing|
 |[logDNA](https://)|50GB/monthly 1 year plan|Security & Analytics|
 |[Sofy](https://)|6 Months premium plan|Tools & Mobile|
 |[Transloadit](https://)|10 GB Startup Plan|Infrastructure & Tools|
