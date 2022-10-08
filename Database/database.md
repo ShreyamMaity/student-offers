@@ -146,7 +146,7 @@
 |[Coveralls](https://)|Unlimited private repos access|Tools|
 |[Yakindu](https://)|12 months premium|Learn|
 |[Storyscript](https://)|12 months business|Infrastructure|
-|[Crowdin](https://)|12 months premium|Tools, Infrastructure , Productivity|
+|[Crowdin](https://crowdin.com/page/github-students)|12 months premium|Tools, Infrastructure , Productivity|
 |[Transifex](https://)|6 Months premium|Infrastructure & Tools|
 |[Minecraft Educational License](https://)|Educational License of Minecraft|Game|
 |[Udemy Coupons for Music Online Courses](https://)|Learn Rs 700 at Udemy|Courses|
