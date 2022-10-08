@@ -42,7 +42,7 @@
 |[Prezi](https://prezi.com/)|Lifetime Subscription|Video Conferencing App|
 |[BlackBerry QNX](https://)|LIfetime Subscription|Education|
 |[Namecheap.com](https://nc.me/)|1 years .me TLD domain & 1 year SSL Certificate|Domains|
-|[Name.com](https://)|One year domain and Advance Security SSL Sertificate|Domains|
+|[Name.com](https://www.name.com/partner/github-students)|One year domain and Advance Security SSL Sertificate|Domains|
 |[AWS Educate](https://)|Starter Account worth \$100.00|Cloud|
 |[Educative](https://www.educative.io/github-students)|6 Months Validity with 60+ courses|Learn|
 |[Github](https://)|Github pro package|Developer|
@@ -167,7 +167,7 @@
 |[Sqlsmash](https://)|Standard Plan|Developing Tools|
 |[Wisej](https://)|Premium plus plan|Infrastructure|
 |[AccessLint](https://)|Access public and Private repos|Repos|
-|[appfigures](https://)|1 year premium plan|marketing|
+|[appfigures](https://appfigures.com/landing/github-student)|1 year premium plan|marketing|
 |[logDNA](https://)|50GB/monthly 1 year plan|Security & Analytics|
 |[Sofy](https://)|6 Months premium plan|Tools & Mobile|
 |[Transloadit](https://)|10 GB Startup Plan|Infrastructure & Tools|
