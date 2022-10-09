@@ -28,7 +28,7 @@
 |[GitKraken](https://)|GitKraken Pro Kit|Developing Tools|
 |[PomoDone](https://)|Lite Plan for 2 years|Productivity|
 |[termius](https://)|Premium Plan|Mobile|
-|[DataCamp](https://)|3 months plan|Learn|
+|[DataCamp](https://www.datacamp.com/pricing/student)|3 months plan|Learn|
 |[One Month](https://)|30 days subsription|Learn|
 |[Education Host](https://)|1 Years Plan + Upgrade plan discount|Cloud|
 |[Interview Cake](https://www.interviewcake.com/github-students)|3 weeks Plan|Learn|
