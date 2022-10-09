@@ -37,7 +37,7 @@
 |[iconscout](https://)|1 years Subscription + 60 Premiums icons|Design|
 |[twilio](https://)|\$50 credit + APIs|Infrastructure & APIs|
 |[testmail.app](https://)|Essential plan|Developing Tools|
-|[Polypane](https://)|1 year subscription|Design|
+|[Polypane](https://polypane.app/github-students/)|1 year subscription|Design|
 |[Pageclip](https://)|Basic Plan subscription|Infrastructure|
 |[next.tech](https://)|1 years Subscription|Developing & Learn|
 |[ATOM](https://)|Annual Subscription|Tools|
