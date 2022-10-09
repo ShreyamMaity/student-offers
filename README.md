@@ -183,6 +183,7 @@
 |[Clean My Mac](https://macpaw.com/store/cleanmymac)|30% off on lifetime edition and annual plans|Tools & PC|
 |[SpiceJet](https://corporate.spicejet.com/studentdiscountlanding.aspx)|SpiceJet will provide up to 10% discount on the base fare on direct domestic ﬂights|
 |[Qoddi](https://blog.qoddi.com/flashdrive-student-program/)| Qoddi is a web hosting platform which offers $1000 per year for every student| Web Hosting|
+|[Autodesk](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)| AutoDesk is a Software company for Architecture softwares. They give special discounts to students. | Architecture Design, CAD |
 
 <!--END_SECTION:cp-->
 
