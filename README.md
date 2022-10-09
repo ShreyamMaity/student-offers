@@ -194,10 +194,10 @@
 
 # What is this ?
 
-- **This a public database of all Student Offers Avialable**
+- **This a public database of all Student Offers Available**
 - **Beginner friendly Repo For Starting Your Contribution Journey**
 - **Feel Free to add more if I missed anything**
-- **NEED CONTRIBUTORS FOR MAINTAIN THIS DATABASE**  
+- **NEED CONTRIBUTORS FOR MAINTAINING THIS DATABASE**  
   
 #
 
@@ -205,7 +205,7 @@
 
 1. **Add a Star to this Repository**
 2. **Fork The Repo**
-3. **`git clone` The Repo**
+3. **`git clone` the Repo**
 4. **Open database.md from Database folder**
 5. **Add/Modify/Replace What you want**
 6. **Create A Pull Request**
