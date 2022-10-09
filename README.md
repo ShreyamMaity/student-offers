@@ -34,32 +34,31 @@
 |[Spotify premium student discount](https://www.spotify.com/in-en/student/)|Student Discount as low as INR66/month|Music|
 |[VS Enterprise](https://visualstudio.microsoft.com/students/)|Visual Studio Code Enterprise Subscription|Development|
 |[Notion Pro](https://www.notion.so/product/notion-for-education)|Notion Pro for lifetime for students|Note Taking|
-|[Lass Pass](https://)|6 months subscription|Password Manager|
-|[Canva For Lifetime](https://)|Lifetime (trick)|Design|
-|[Canva](https://)|12 months Pro Tier subscription|Design|
-|[eSurveyCreator](https://)|Student License while you are student|Survey creation and distribution app|
-|[LucidChart](https://)|Lifetime free suscription|Flowchart service|
+|[Last Pass](https://www.lastpass.com)|6 months subscription|Password Manager|
+|[Canva](https://www.canva.com)|12 months Pro Tier subscription|Design|
+|[eSurveyCreator](https://www.surveyhero.com/esurveycreator-is-now-surveyhero)|Student License while you are student|Survey creation and distribution app|
+|[LucidChart](https://www.lucidchart.com/pages/)|Lifetime free suscription|Flowchart service|
 |[Prezi](https://prezi.com/)|Lifetime Subscription|Video Conferencing App|
-|[BlackBerry QNX](https://)|LIfetime Subscription|Education|
+|[BlackBerry QNX](https://blackberry.qnx.com/en)|LIfetime Subscription|Education|
 |[Namecheap.com](https://nc.me/)|1 years .me TLD domain & 1 year SSL Certificate|Domains|
 |[Name.com](https://www.name.com/partner/github-students)|One year domain and Advance Security SSL Sertificate|Domains|
-|[AWS Educate](https://)|Starter Account worth \$100.00|Cloud|
+|[AWS Educate](https://aws.amazon.com/education/awseducate/)|Starter Account worth \$100.00|Cloud|
 |[Educative](https://www.educative.io/github-students)|6 Months Validity with 60+ courses|Learn|
-|[Github](https://)|Github pro package|Developer|
+|[Github](https://education.github.com/benefits/offers)|Github pro package|Developer|
 |[Microsoft Azure](https://azure.microsoft.com/en-in/free/students/)|25+ microsoft cloud services + \$100.00 in Azure credit|Cloud|
-|[Unity](https://)|Lifetime|Game Development|
+|[Unity](https://unity.com/products/unity-student)|Lifetime|Game Development|
 |[Jetbrains](https://www.jetbrains.com/education/)|Annual Subscription|Developer|
 |[Digital Ocean](https://www.digitalocean.com/github-students/)|\$50 Credit|Cloud|
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
-|[Frontend Masters](https://)|6 Months Validity|Learn|
+|[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
-|[.tech Domains](https://)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
-|[GitKraken](https://)|GitKraken Pro Kit|Developing Tools|
-|[PomoDone](https://)|Lite Plan for 2 years|Productivity|
-|[termius](https://)|Premium Plan|Mobile|
+|[.tech Domains](https://get.tech/)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
+|[GitKraken](https://www.gitkraken.com/github-student-developer-pack-bundle)|GitKraken Pro Kit|Developing Tools|
+|[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
+|[termius](https://termius.com/education)|Premium Plan|Mobile|
 |[DataCamp](https://www.datacamp.com/pricing/student)|3 months plan|Learn|
-|[One Month](https://)|30 days subsription|Learn|
-|[Education Host](https://)|1 Years Plan + Upgrade plan discount|Cloud|
+|[One Month](https://onemonth.com/github/students)|30 days subsription|Learn|
+|[Education Host](https://github-students.educationhost.co.uk/)|1 Years Plan + Upgrade plan discount|Cloud|
 |[Interview Cake](https://www.interviewcake.com/github-students)|3 weeks Plan|Learn|
 |[MongoDB](https://www.mongodb.com/students)|\$200 credit + Courses + Certification|Infrastructure & APIs|
 |[GitHub Campus Experts](https://education.github.com/experts)|Complete Course|Learn|
