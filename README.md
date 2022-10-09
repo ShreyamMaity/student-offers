@@ -204,10 +204,11 @@
 
 1. **Add a Star to this Repository**
 2. **Fork The Repo**
-3. **Open database.md from Database folder**
-4. **Add/Modify/Replace What you want**
-5. **Create A Pull Request**
-6. **Explain what You Have Done in description**
+3. **`git clone` The Repo**
+4. **Open database.md from Database folder**
+5. **Add/Modify/Replace What you want**
+6. **Create A Pull Request**
+7. **Explain what You Have Done in description**
 
 #
 
