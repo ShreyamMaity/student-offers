@@ -5,7 +5,7 @@
 
 #
 
-# <p align="center">ALL FREE Student Offers List
+# <p align="center">Get FREE Student Offers List
 <p align="center">
 <img src=https://badges.frapsoft.com/os/v2/open-source.svg?v"/>
 <img src=https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.student-offers"/>
