@@ -26,7 +26,7 @@
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
 |[.tech Domains](https://)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[GitKraken](https://)|GitKraken Pro Kit|Developing Tools|
-|[PomoDone](https://)|Lite Plan for 2 years|Productivity|
+|[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
 |[termius](https://)|Premium Plan|Mobile|
 |[DataCamp](https://www.datacamp.com/pricing/student)|3 months plan|Learn|
 |[One Month](https://)|30 days subsription|Learn|
@@ -35,14 +35,14 @@
 |[MongoDB](https://www.mongodb.com/students)|\$200 credit + Courses + Certification|Infrastructure & APIs|
 |[GitHub Campus Experts](https://education.github.com/experts)|Complete Course|Learn|
 |[iconscout](https://)|1 years Subscription + 60 Premiums icons|Design|
-|[twilio](https://)|\$50 credit + APIs|Infrastructure & APIs|
+|[twilio](https://www.twilio.com/quest/education)|\$50 credit + APIs|Infrastructure & APIs|
 |[testmail.app](https://)|Essential plan|Developing Tools|
 |[Polypane](https://polypane.app/github-students/)|1 year subscription|Design|
-|[Pageclip](https://)|Basic Plan subscription|Infrastructure|
+|[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
 |[next.tech](https://)|1 years Subscription|Developing & Learn|
 |[ATOM](https://)|Annual Subscription|Tools|
 |[Arduino Education](https://)|6 months Subscription|Internet of Things & Infrastructure|
-|[Typeform](https://)|1 years Subscription|Design &  Marketing|
+|[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
 |[Desktop](https://)|Annual Subscription|Developing Tools|
 |[HazeOver](https://)|Lifetime|Productivity|
 |[netwise.](https://)|1 years Subscription|Cloud & Internet of Things|
@@ -84,7 +84,7 @@
 |[Themescale](https://)|Wordpress themes license for 1 year|Website|
 |[Hexagon Geospatail](https://)|Student License|Education|
 |[Axure education](https://)|Student License|Prototype creation software|
-|[replit](https://)|3 months Hackers Plan|Developers & Learn|
+|[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
 |[Bhphotovideo](https://)|Student License|Shopping|
 |[Flatiron School](https://)|1 month Subscription|Learn|
 |[IMGBOT](https://)|Free Image Optimisation|Infrastructure|
