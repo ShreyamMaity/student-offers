@@ -33,7 +33,7 @@
 |[Education Host](https://)|1 Years Plan + Upgrade plan discount|Cloud|
 |[Interview Cake](https://www.interviewcake.com/github-students)|3 weeks Plan|Learn|
 |[MongoDB](https://www.mongodb.com/students)|\$200 credit + Courses + Certification|Infrastructure & APIs|
-|[Guthub Campus Experts](https://)|Complete Course|Learn|
+|[GitHub Campus Experts](https://education.github.com/experts)|Complete Course|Learn|
 |[iconscout](https://)|1 years Subscription + 60 Premiums icons|Design|
 |[twilio](https://)|\$50 credit + APIs|Infrastructure & APIs|
 |[testmail.app](https://)|Essential plan|Developing Tools|
