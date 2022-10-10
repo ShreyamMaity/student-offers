@@ -35,7 +35,6 @@
 |[VS Enterprise](https://visualstudio.microsoft.com/students/)|Visual Studio Code Enterprise Subscription|Development|
 |[Notion Pro](https://www.notion.so/product/notion-for-education)|Notion Pro for lifetime for students|Note Taking|
 |[Last Pass](https://www.lastpass.com)|6 months subscription|Password Manager|
-|[Canva](https://www.canva.com)|12 months Pro Tier subscription|Design|
 |[eSurveyCreator](https://www.surveyhero.com/esurveycreator-is-now-surveyhero)|Student License while you are student|Survey creation and distribution app|
 |[LucidChart](https://www.lucidchart.com/pages/)|Lifetime free suscription|Flowchart service|
 |[Prezi](https://prezi.com/)|Lifetime Subscription|Video Conferencing App|
@@ -75,7 +74,6 @@
 |[ATOM](https://)|Annual Subscription|Tools|
 |[Arduino Education](https://)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
-|[Typeform](https://)|1 years Subscription|Design &  Marketing|
 |[Desktop](https://)|Annual Subscription|Developing Tools|
 |[HazeOver](https://)|Lifetime|Productivity|
 |[netwise.](https://)|1 years Subscription|Cloud & Internet of Things|
@@ -191,7 +189,6 @@
 |[Audible](https://www.amazon.com/hz/audible/mlp?ie=UTF8&tag=colinfgee-20)| Access a selection of Audible Originals, audiobooks, and podcasts including exclusive series.| Learning |
 |[YouNeedABudget](https://www.youneedabudget.com/college/)| Free budgeting software for college students with student ID| Tools |
 |[Headspace](https://www.headspace.com/studentplan)|85% off|Meditation|
-
 <!--END_SECTION:cp-->
 
 
@@ -209,7 +206,7 @@
   
 #
 
-# How to Cotribute?
+# How to Contribute?
 
 1. **Add a Star to this Repository**
 2. **Fork The Repo**
