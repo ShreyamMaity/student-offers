@@ -172,7 +172,7 @@
 |[Transloadit](https://)|10 GB Startup Plan|Infrastructure & Tools|
 |[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
 |[Coveralls](https://)|Unlimited private repos access|Tools|
-|[Yakindu](https://)|12 months premium|Learn|
+|[Yakindu](https://www.itemis.com/en/yakindu/state-machine/yakindu-universities/)|12 months premium|Learn|
 |[Storyscript](https://)|12 months business|Infrastructure|
 |[Crowdin](https://crowdin.com/page/github-students)|12 months premium|Tools, Infrastructure , Productivity|
 |[Transifex](https://)|6 Months premium|Infrastructure & Tools|
