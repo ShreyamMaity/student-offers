@@ -3,7 +3,7 @@
 </p>  
 
 
-#
+---
 
 # <p align="center">Get FREE Student Offers List
 <p align="center">
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Hacktoberfest-Accpected-yellowgreen"/>
 </p>
 
-#
+---
 
 ## Offers List Is Here 👇👇
 <details><summary> Click Here To Open List</summary>
@@ -196,7 +196,7 @@
 </p>
 </details>  
 
-#
+---
 
 # What is this ?
 
@@ -205,7 +205,7 @@
 - **Feel Free to add more if I missed anything**
 - **NEED CONTRIBUTORS FOR MAINTAINING THIS DATABASE**  
   
-#
+---
 
 # How to Contribute?
 
@@ -217,7 +217,7 @@
 6. **Create A Pull Request**
 7. **Explain what You Have Done in description**
 
-#
+---
 
 # What Contributions are accepted?
 
@@ -229,11 +229,11 @@
 6. **If Link is not working, Adding it**
 7. **Mentioning Duration Of The Offer**
 
-#
+---
 
 # Instructions to Contribute :
 
-- <details><summary> Basics of Markdown Table </summary>
+<details><summary> Basics of Markdown Table </summary>
   <p>
 
   - ![markdown table](./instructions/table.png)
@@ -241,9 +241,8 @@
 
 	
    </p>
-   </details>  
-
-- <details><summary> How To Add Links </summary>
+   </details>
+<details><summary> How To Add Links </summary>
   <p>
 
   - ![link info](./instructions/link.png)  
@@ -253,7 +252,7 @@
   </p>
   </details>  
 
-- <details><summary> How to Add An Offer </summary>
+<details><summary> How to Add An Offer </summary>
   <p>
 
    - ![Add](./instructions/add.png)  
@@ -277,7 +276,7 @@
   </p>
   </details>  
 
-- <details><summary> How to Edit Existing Offer </summary>
+<details><summary> How to Edit Existing Offer </summary>
   <p>
 
    - ![table info](./instructions/info.png)  
