@@ -62,12 +62,12 @@
 |[Interview Cake](https://www.interviewcake.com/github-students)|3 weeks Plan|Learn|
 |[MongoDB](https://www.mongodb.com/students)|\$200 credit + Courses + Certification|Infrastructure & APIs|
 |[GitHub Campus Experts](https://education.github.com/experts)|Complete Course|Learn|
-|[iconscout](https://)|1 years Subscription + 60 Premiums icons|Design|
-|[twilio](https://)|\$50 credit + APIs|Infrastructure & APIs|
-|[testmail.app](https://)|Essential plan|Developing Tools|
+|[iconscout](https://iconscout.com/)|1 years Subscription + 60 Premiums icons|Design|
+|[twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)|\$50 credit + APIs|Infrastructure & APIs|
+|[testmail.app](https://testmail.app/)|Essential plan|Developing Tools|
 |[Polypane](https://polypane.app/github-students/)|1 year subscription|Design|
-|[Pageclip](https://)|Basic Plan subscription|Infrastructure|
-|[next.tech](https://)|1 years Subscription|Developing & Learn|
+|[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
+|[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
 |[ATOM](https://)|Annual Subscription|Tools|
 |[Arduino Education](https://)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://)|1 years Subscription|Design &  Marketing|
@@ -95,14 +95,14 @@
 |[Invision App](https://)|Free while you are student|UI/UX Design|
 |[Basecamp account](https://)|Student License|Project management & team Collab|
 |[Amazon Prime Student (.com)](https://www.amazon.in/b?ie=UTF8&node=15307611031)|6 month Prime + prime videos(all region) + deals 7 discounts|Shopping|
-|[Unidays](https://)|Student Discounts|Shopping|
-|[SheerID](https://)|Student Discount|Shopping|
+|[Unidays](https://www.myunidays.com/US/en-US)|Student Discounts|Shopping|
+|[SheerID](https://www.sheerid.com/shoppers/studentdeals/)|Student Discount|Shopping|
 |[onTheHub](https://)|Free win 10 edu if your college supports, discounts on softwares|Softwares|
-|[PTC student](https://)|Student License|3D CAD|
-|[Intel education software](https://)|Student License|Development|
-|[Newegg Premier](https://)|Discounts|shopping|
-|[Mnx.io](https://)|**\$50 credit in cloud hosting for students, valid for 1 year.**|Cloud Server|
-|[DNS simple](https://)|DNS Simple student license|DNS data observation|
+|[PTC student](https://www.ptc.com/en/products/education/free-software/creo-college-download)|Student License|3D CAD|
+|[Intel education software](https://www.intel.com/content/www/us/en/education/intel-education.html)|Student License|Development|
+|[Newegg Premier](https://www.newegg.com/neweggpremier)|Discounts|shopping|
+|[Mnx.io](https://mnx.io/pricing)|**\$50 credit in cloud hosting for students, valid for 1 year.**|Cloud Server|
+|[DNS simple](https://dnsimple.com/signup)|DNS Simple student license|DNS data observation|
 |[Orchestrate.io](https://)|Free developer account|database service|
 |[Send grid](https://)|Student License|STMP mail system|
 |[Bitnami](https://)|Student License free|pre-packaged images for automated setup of popular server software on Windows, Mac OS|
@@ -175,15 +175,16 @@
 |[Yakindu](https://www.itemis.com/en/yakindu/state-machine/yakindu-universities/)|12 months premium|Learn|
 |[Storyscript](https://)|12 months business|Infrastructure|
 |[Crowdin](https://crowdin.com/page/github-students)|12 months premium|Tools, Infrastructure , Productivity|
-|[Transifex](https://)|6 Months premium|Infrastructure & Tools|
-|[Minecraft Educational License](https://)|Educational License of Minecraft|Game|
-|[Udemy Coupons for Music Online Courses](https://)|Learn Rs 700 at Udemy|Courses|
-|[Testbook Offer for Visa Cards](https://)|Up to 60% OFF + 15% OFF on Testbook Pass|Tools & Mobile|
+|[Transifex](https://www.transifex.com/pricing/)|6 Months premium|Infrastructure & Tools|
+|[Minecraft Educational License](https://education.minecraft.net/en-us/licensing)|Educational License of Minecraft|Game|
+|[Udemy Coupons for Music Online Courses](https://udemy.com)|Learn Rs 700 at Udemy|Courses|
+|[Testbook Offer for Visa Cards](https://testbook.com/offers/5c6d38b3fdb8bb27ca727f62)|Up to 60% OFF + 15% OFF on Testbook Pass|Tools & Mobile|
 |[Clean My Mac](https://macpaw.com/store/cleanmymac)|30% off on lifetime edition and annual plans|Tools & PC|
 |[SpiceJet](https://corporate.spicejet.com/studentdiscountlanding.aspx)|SpiceJet will provide up to 10% discount on the base fare on direct domestic ﬂights|
 |[Qoddi](https://blog.qoddi.com/flashdrive-student-program/)| Qoddi is a web hosting platform which offers $1000 per year for every student| Web Hosting|
 |[Autodesk](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)| AutoDesk is a Software company for Architecture softwares. They give special discounts to students. | Architecture Design, CAD |
-
+|[Audible](https://www.amazon.com/hz/audible/mlp?ie=UTF8&tag=colinfgee-20)| Access a selection of Audible Originals, audiobooks, and podcasts including exclusive series.| Learning |
+|[YouNeedABudget](https://www.youneedabudget.com/college/)| Free budgeting software for college students with student ID| Tools |
 <!--END_SECTION:cp-->
 
 
