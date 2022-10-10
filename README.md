@@ -190,6 +190,8 @@
 |[Autodesk](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)| AutoDesk is a Software company for Architecture softwares. They give special discounts to students. | Architecture Design, CAD |
 |[Audible](https://www.amazon.com/hz/audible/mlp?ie=UTF8&tag=colinfgee-20)| Access a selection of Audible Originals, audiobooks, and podcasts including exclusive series.| Learning |
 |[YouNeedABudget](https://www.youneedabudget.com/college/)| Free budgeting software for college students with student ID| Tools |
+|[Headspace](https://www.headspace.com/studentplan)|85% off|Meditation|
+
 <!--END_SECTION:cp-->
 
 
