@@ -213,7 +213,7 @@
 
 #
 
-# What Contributions are accpected?
+# What Contributions are accepted?
 
 1. **Any Typo In The List of Offers**
 2. **Adding More Offers Which is not Present**
