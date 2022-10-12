@@ -161,3 +161,5 @@
 |[YouNeedABudget](https://www.youneedabudget.com/college/)| Free budgeting software for college students with student ID| Tools |
 |[Headspace](https://www.headspace.com/studentplan)|85% off|Meditation|
 |[Apple](https://www.apple.com/us-edu/store)|Discounts on Apple Products for Students|Products|
+|[Evernote](https://evernote.com/students)|Get 50% off a full year of Evernote Personal.|Education|
+
