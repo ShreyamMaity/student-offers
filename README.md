@@ -189,7 +189,7 @@
 |[Audible](https://www.amazon.com/hz/audible/mlp?ie=UTF8&tag=colinfgee-20)| Access a selection of Audible Originals, audiobooks, and podcasts including exclusive series.| Learning |
 |[YouNeedABudget](https://www.youneedabudget.com/college/)| Free budgeting software for college students with student ID| Tools |
 |[Headspace](https://www.headspace.com/studentplan)|85% off|Meditation|
-|[Apple](https://www.apple.com/us-edu/store)|Discounts on Apple Products for Students|
+|[Apple](https://www.apple.com/us-edu/store)|Discounts on Apple Products for Students|Products|
 
 <!--END_SECTION:cp-->
 
