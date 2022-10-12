@@ -162,4 +162,5 @@
 |[Headspace](https://www.headspace.com/studentplan)|85% off|Meditation|
 |[Apple](https://www.apple.com/us-edu/store)|Discounts on Apple Products for Students|Products|
 |[Evernote](https://evernote.com/students)|Get 50% off a full year of Evernote Personal.|Education|
+|[Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US)|Get certified courses for free with Financial Aid|Education|
 
