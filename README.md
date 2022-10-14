@@ -84,7 +84,7 @@
 |[Rhino3D](https://)|Rhino3D Educational License|3D Rendering|
 |[Chaos](https://)|Student License|3D Work|
 |[QT](https://)|QT Educational License|Cross Platform development|
-|[Copyright.com](https://)|Student License|Education|
+|[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
 |[cPanel](https://)|Educational License|cPanel for free but faculty only|
 |[Figma pro](https://www.figma.com/education/)|Figma Pro License|UI/UX Designing|
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
