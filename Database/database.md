@@ -22,7 +22,7 @@
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
 |[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
-|[.tech Domains](https://)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
+|[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[GitKraken](https://)|GitKraken Pro Kit|Developing Tools|
 |[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
 |[termius](https://)|Premium Plan|Mobile|
