@@ -129,7 +129,7 @@
 |[POEditor](https://)|1 year subscription|Developer Tools & Infrastructure|
 |[Honeybadget.io](https://)|1 year subscription|Security & Analytics|
 |[Kaltura](https://)|\$10K/year Credits|Infrastructure|
-|[astra](https://)|6 months Subscription|Security & Analytics|
+|[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
 |[Pushbots](https://)|6 months Subscription|Infrastructure|
 |[LingoHub](https://)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
 |[Sider](https://)|Standard|Tools|
