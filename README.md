@@ -83,7 +83,7 @@
 |[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering|
 |[Rhino3D](https://)|Rhino3D Educational License|3D Rendering|
 |[Chaos](https://)|Student License|3D Work|
-|[QT](https://)|QT Educational License|Cross Platform development|
+|[QT](https://www.qt.io/qt-educational-license)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
 |[cPanel](https://)|Educational License|cPanel for free but faculty only|
 |[Figma pro](https://www.figma.com/education/)|Figma Pro License|UI/UX Designing|
@@ -114,7 +114,7 @@
 |[Students beans](https://)|Membership ID|student ID for discounts|
 |[Themescale](https://)|Wordpress themes license for 1 year|Website|
 |[Hexagon Geospatail](https://)|Student License|Education|
-|[Axure education](https://)|Student License|Prototype creation software|
+|[Axure education](https://www.axure.com/edu)|Student License|Prototype creation software|
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
 |[Bhphotovideo](https://)|Student License|Shopping|
 |[Flatiron School](https://)|1 month Subscription|Learn|
