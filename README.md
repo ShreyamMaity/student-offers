@@ -84,7 +84,7 @@
 |[Rhino3D](https://)|Rhino3D Educational License|3D Rendering|
 |[Chaos](https://)|Student License|3D Work|
 |[QT](https://)|QT Educational License|Cross Platform development|
-|[Copyright.com](https://)|Student License|Education|
+|[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
 |[cPanel](https://)|Educational License|cPanel for free but faculty only|
 |[Figma pro](https://www.figma.com/education/)|Figma Pro License|UI/UX Designing|
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
@@ -189,6 +189,11 @@
 |[Audible](https://www.amazon.com/hz/audible/mlp?ie=UTF8&tag=colinfgee-20)| Access a selection of Audible Originals, audiobooks, and podcasts including exclusive series.| Learning |
 |[YouNeedABudget](https://www.youneedabudget.com/college/)| Free budgeting software for college students with student ID| Tools |
 |[Headspace](https://www.headspace.com/studentplan)|85% off|Meditation|
+|[Apple](https://www.apple.com/us-edu/store)|Discounts on Apple Products for Students|Products|
+|[Evernote](https://evernote.com/students)|Get 50% off a full year of Evernote Personal.|Education|
+|[Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US)|Get certified courses for free with Financial Aid|Education|
+|[Microsoft for Students](https://msftstudentcert.cloudreadyskills.com/)|Free 8 Microsoft Certification. Required: .edu email address.|Certification|
+|[Hulu for Students](https://www.hulu.com/student)|Students: Get Hulu For Just $1.99/Month.|Video Streaming|
 
 <!--END_SECTION:cp-->
 
