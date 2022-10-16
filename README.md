@@ -80,7 +80,7 @@
 |[Go Rails](https://gorails.com/github-students)|12 months subcription – Video Lessons|Learn|
 |[Enscape](https://)|Enscape educational license|Visual Reality & Real Time Rendering|
 |[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering|
-|[Rhino3D](rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
+|[Rhino3D](https://www.rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
 |[Chaos](https://)|Student License|3D Work|
 |[QT](https://www.qt.io/qt-educational-license)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
@@ -117,7 +117,7 @@
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
 |[Bhphotovideo](https://)|Student License|Shopping|
 |[Flatiron School](https://)|1 month Subscription|Learn|
-|[IMGBOT](https://github.com/marketplace/imgbot/order/MLP_kgDNGw8?account=7sohamd](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
+|[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://)|Premium Plan|Developers Tools|
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
@@ -197,6 +197,7 @@
 |[Expedia](https://www.expedia.com/student-travel-discounts)|Expedia Students Travel Offer|Tour and Travel|
 |[Impact Soundworks](https://impactsoundworks.com/support/#academic-discounts/)|Educational Offer in Impact Soundworks|Music|
 |[Oneplus](https://www.oneplus.in/education)[Educational Discount on Oneplus Products]`
+
 <!--END_SECTION:cp-->
 
 
