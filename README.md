@@ -51,7 +51,7 @@
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
 |[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
-|[.tech Domains](https://)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
+|[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[GitKraken](https://)|GitKraken Pro Kit|Developing Tools|
 |[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
 |[termius](https://)|Premium Plan|Mobile|
@@ -72,7 +72,7 @@
 |[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
 |[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
 |[ATOM](https://)|Annual Subscription|Tools|
-|[Arduino Education](https://)|6 months Subscription|Internet of Things & Infrastructure|
+|[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit/github-students)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
 |[Desktop](https://)|Annual Subscription|Developing Tools|
 |[HazeOver](https://)|Lifetime|Productivity|
@@ -197,6 +197,7 @@
 |[Hulu for Students](https://www.hulu.com/student)|Students: Get Hulu For Just $1.99/Month.|Video Streaming|
 |[Expedia](https://www.expedia.com/student-travel-discounts)|Expedia Students Travel Offer|Tour and Travel|
 |[Impact Soundworks](https://impactsoundworks.com/support/#academic-discounts/)|Educational Offer in Impact Soundworks|Music|
+
 <!--END_SECTION:cp-->
 
 
