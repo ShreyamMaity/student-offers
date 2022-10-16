@@ -27,7 +27,6 @@
 |[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
 |[.tech Domains](https://get.tech/)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[GitKraken](https://www.gitkraken.com/github-student-developer-pack-bundle)|GitKraken Pro Kit|Developing Tools|
-|[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
 |[termius](https://termius.com/education)|Premium Plan|Mobile|
 |[DataCamp](https://www.datacamp.com/pricing/student)|3 months plan|Learn|
 |[One Month](https://onemonth.com/github/students)|30 days subsription|Learn|
