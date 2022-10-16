@@ -52,7 +52,7 @@
 |[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
 |[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
-|[GitKraken](https://)|GitKraken Pro Kit|Developing Tools|
+|[GitKraken](https://www.gitkraken.com/)|GitKraken Pro Kit|Developing Tools|
 |[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
 |[termius](https://)|Premium Plan|Mobile|
 |[.tech Domains](https://get.tech/)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
@@ -95,7 +95,7 @@
 |[Tableau Desktop](https://)|1 Year Student License|Data Analysing|
 |[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
 |[THINKFUL](https://)|1 Month Web Development|Learn|
-|[Invision App](https://)|Free while you are student|UI/UX Design|
+|[Invision App](https://https://www.invisionapp.com/)|Free while you are student|UI/UX Design|
 |[Basecamp account](https://)|Student License|Project management & team Collab|
 |[Amazon Prime Student (.com)](https://www.amazon.in/b?ie=UTF8&node=15307611031)|6 month Prime + prime videos(all region) + deals 7 discounts|Shopping|
 |[Unidays](https://www.myunidays.com/US/en-US)|Student Discounts|Shopping|
