@@ -163,4 +163,4 @@
 |[Apple](https://www.apple.com/us-edu/store)|Discounts on Apple Products for Students|Products|
 |[Evernote](https://evernote.com/students)|Get 50% off a full year of Evernote Personal.|Education|
 |[Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US)|Get certified courses for free with Financial Aid|Education|
-
+|[SpiceJet](https://corporate.spicejet.com/studentdiscountlanding.aspx)|Extra 10% discount for all students|Travel|
