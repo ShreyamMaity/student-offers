@@ -24,7 +24,9 @@
 |[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
 |[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
+|[GitKraken](https://www.gitkraken.com/)|GitKraken Pro Kit|Developing Tools|
 |[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
+|[termius](https://)|Premium Plan|Mobile|
 |[.tech Domains](https://get.tech/)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[GitKraken](https://www.gitkraken.com/github-student-developer-pack-bundle)|GitKraken Pro Kit|Developing Tools|
 |[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
@@ -44,6 +46,7 @@
 |[ATOM](https://)|Annual Subscription|Tools|
 |[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit/github-students)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
+|[Desktop](https://)|Annual Subscription|Developing Tools|
 |[netwise.](https://www.netwise.co.uk/students/)|1 years Subscription|Cloud & Internet of Things|
 |[HazeOver](https://hazeover.com/)|Lifetime|Productivity|
 |[ICONS8](https://icons8.com/github-students)|3 Months unlimited Subscription|Design|
@@ -51,7 +54,7 @@
 |[Go Rails](https://gorails.com/github-students)|12 months subcription – Video Lessons|Learn|
 |[Enscape](https://)|Enscape educational license|Visual Reality & Real Time Rendering|
 |[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering|
-|[Rhino3D](rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
+|[Rhino3D](https://www.rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
 |[Chaos](https://)|Student License|3D Work|
 |[QT](https://www.qt.io/qt-educational-license)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
