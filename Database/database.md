@@ -43,7 +43,7 @@
 |[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
 |[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
 |[ATOM](https://)|Annual Subscription|Tools|
-|[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit/github-students)|6 months Subscription|Internet of Things & Infrastructure|
+|[Arduino Education](https://)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
 |[Desktop](https://)|Annual Subscription|Developing Tools|
 |[HazeOver](https://)|Lifetime|Productivity|
@@ -52,7 +52,7 @@
 |[Mailgun](https://)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
 |[Go Rails](https://)|12 months subcription – Video Lessons|Learn|
 |[Enscape](https://)|Enscape educational license|Visual Reality & Real Time Rendering|
-|[Rhino3D](https://)|Rhino3D Educational License|3D Rendering|
+|[Rhino3D](https://https://www.rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
 |[Chaos](https://)|Student License|3D Work|
 |[QT](https://)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
