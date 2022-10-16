@@ -1,5 +1,6 @@
 
 
+
 |:------|:-------------|:---|
 |[.tech Domains](https://get.tech/)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
