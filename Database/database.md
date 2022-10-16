@@ -47,7 +47,7 @@
 |[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
 |[Desktop](https://)|Annual Subscription|Developing Tools|
 |[HazeOver](https://)|Lifetime|Productivity|
-|[netwise.](https://)|1 years Subscription|Cloud & Internet of Things|
+|[netwise.](https://www.netwise.co.uk/students/)|1 years Subscription|Cloud & Internet of Things|
 |[ICONS8](https://icons8.com/github-students)|3 Months unlimited Subscription|Design|
 |[Mailgun](https://)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
 |[Go Rails](https://)|12 months subcription – Video Lessons|Learn|
