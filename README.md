@@ -80,7 +80,7 @@
 |[ICONS8](https://icons8.com/github-students)|3 Months unlimited Subscription|Design|
 |[Mailgun](https://www.mailgun.com/github-students/)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
 |[Go Rails](https://)|12 months subcription – Video Lessons|Learn|
-|[Enscape](https://)|Enscape educational license|Visual Reality & Real Time Rendering|
+|[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering|
 |[Rhino3D](https://)|Rhino3D Educational License|3D Rendering|
 |[Chaos](https://)|Student License|3D Work|
 |[QT](https://)|QT Educational License|Cross Platform development|
@@ -129,7 +129,7 @@
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
 |[Covalence](https://)|1 month Subscription|Learn|
 |[deepsource](https://)|Pro Subscription|Tools|
-|[TOWER](https://)|Pro Subscription|Developer Tools|
+|[TOWER](https://www.git-tower.com/students/windows)|Pro Subscription|Developer Tools|
 |[Gitpod](https://)|6 months personal plan subscription|Developer Tools & Learn|
 |[Sentry](https://)|500,000 events/month with unlimited projects|Infrastructure|
 |[XOJO](https://)|Desktop License|Design & Developer Tools|
