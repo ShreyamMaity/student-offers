@@ -170,3 +170,4 @@
 |[Hulu for Students](https://www.hulu.com/student)|Students: Get Hulu For Just $1.99/Month.|Video Streaming|
 |[Expedia](https://www.expedia.com/student-travel-discounts)|Expedia Students Travel Offer|Tour and Travel|
 |[Impact Soundworks](https://impactsoundworks.com/support/#academic-discounts/)|Educational Offer in Impact Soundworks|Music|
+|[Oneplus](https://www.oneplus.in/education)[Educational Discount on Oneplus Products]`
