@@ -54,7 +54,7 @@
 |[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering|
 |[Rhino3D](https://)|Rhino3D Educational License|3D Rendering|
 |[Chaos](https://)|Student License|3D Work|
-|[QT](https://)|QT Educational License|Cross Platform development|
+|[QT](https://www.qt.io/qt-educational-license)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
 |[cPanel](https://)|Educational License|cPanel for free but faculty only|
 |[Figma pro](https://www.figma.com/education/)|Figma Pro License|UI/UX Designing|
