@@ -166,3 +166,4 @@
 |[SpiceJet](https://corporate.spicejet.com/studentdiscountlanding.aspx)|Extra 10% discount for all students|Travel|
 |[Microsoft for Students](https://msftstudentcert.cloudreadyskills.com/)|Free 8 Microsoft Certification. Required: .edu email address.|Certification|
 |[Hulu for Students](https://www.hulu.com/student)|Students: Get Hulu For Just $1.99/Month.|Video Streaming|
+|[Expedia](https://www.expedia.com/student-travel-discounts)|Expedia Students Travel Offer|Tour and Travel|
