@@ -134,7 +134,7 @@
 |[Sider](https://)|Standard|Tools|
 |[Blockchair](https://)|100,000 free requests|Infrastructure|
 |[datree.io](https://)|Pro Subscription|Tools|
-|[EverSQL](https://)|6 months Subscription|Tools|
+|[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
 |[baremetrics](https://)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
 |[LambdaTEST](https://)|1 year Live Plan|Test|
 |[Sqlsmash](https://)|Standard Plan|Developing Tools|
