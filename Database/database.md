@@ -43,7 +43,7 @@
 |[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
 |[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
 |[ATOM](https://)|Annual Subscription|Tools|
-|[Arduino Education](https://)|6 months Subscription|Internet of Things & Infrastructure|
+|[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit/github-students)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
 |[Desktop](https://)|Annual Subscription|Developing Tools|
 |[HazeOver](https://)|Lifetime|Productivity|
