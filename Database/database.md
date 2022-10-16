@@ -24,9 +24,7 @@
 |[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
 |[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
-|[GitKraken](https://www.gitkraken.com/)|GitKraken Pro Kit|Developing Tools|
 |[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
-|[termius](https://)|Premium Plan|Mobile|
 |[.tech Domains](https://get.tech/)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[GitKraken](https://www.gitkraken.com/github-student-developer-pack-bundle)|GitKraken Pro Kit|Developing Tools|
 |[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
@@ -46,7 +44,6 @@
 |[ATOM](https://)|Annual Subscription|Tools|
 |[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit/github-students)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
-|[Desktop](https://)|Annual Subscription|Developing Tools|
 |[netwise.](https://www.netwise.co.uk/students/)|1 years Subscription|Cloud & Internet of Things|
 |[HazeOver](https://hazeover.com/)|Lifetime|Productivity|
 |[ICONS8](https://icons8.com/github-students)|3 Months unlimited Subscription|Design|
@@ -91,7 +88,7 @@
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
 |[Bhphotovideo](https://)|Student License|Shopping|
 |[Flatiron School](https://)|1 month Subscription|Learn|
-|[IMGBOT](https://github.com/marketplace/imgbot/order/MLP_kgDNGw8?account=7sohamd](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
+|[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://)|Premium Plan|Developers Tools|
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
