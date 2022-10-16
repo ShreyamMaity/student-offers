@@ -59,7 +59,7 @@
 |[cPanel](https://)|Educational License|cPanel for free but faculty only|
 |[Figma pro](https://www.figma.com/education/)|Figma Pro License|UI/UX Designing|
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
-|[Shapr3d](https://)|Student License 1 Year|3D modeling App|
+|[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
 |[Gliffy](https://)|Student License|Diagram Drawing|
 |[Portfolio Box Pro](https://)|Student License|Portfolio creation|
 |[Lumion Pro](https://)|Student License|3D Rendering software|
