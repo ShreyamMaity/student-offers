@@ -89,7 +89,7 @@
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
 |[Bhphotovideo](https://)|Student License|Shopping|
 |[Flatiron School](https://)|1 month Subscription|Learn|
-|[IMGBOT](https://)|Free Image Optimisation|Infrastructure|
+|[IMGBOT](https://github.com/marketplace/imgbot/order/MLP_kgDNGw8?account=7sohamd](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://)|Premium Plan|Developers Tools|
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
