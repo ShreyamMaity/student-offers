@@ -144,7 +144,7 @@
 |[appfigures](https://appfigures.com/landing/github-student)|1 year premium plan|marketing|
 |[logDNA](https://)|50GB/monthly 1 year plan|Security & Analytics|
 |[Sofy](https://)|6 Months premium plan|Tools & Mobile|
-|[Transloadit](https://)|10 GB Startup Plan|Infrastructure & Tools|
+|[Transloadit](https://transloadit.com/github-students/)|10 GB Startup Plan|Infrastructure & Tools|
 |[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
 |[Coveralls](https://)|Unlimited private repos access|Tools|
 |[Yakindu](https://www.itemis.com/en/yakindu/state-machine/yakindu-universities/)|12 months premium|Learn|
