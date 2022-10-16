@@ -28,6 +28,39 @@
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
 |[BrowserStack](https://)|Automate 1 year plan|Developing Tools|
 |[CART](https://)|2 Years Premium Plan|Infrastructure|
+|[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
+|[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
+|[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
+|[GitKraken](https://www.gitkraken.com/)|GitKraken Pro Kit|Developing Tools|
+|[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
+|[termius](https://)|Premium Plan|Mobile|
+|[.tech Domains](https://get.tech/)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
+|[GitKraken](https://www.gitkraken.com/github-student-developer-pack-bundle)|GitKraken Pro Kit|Developing Tools|
+|[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
+|[termius](https://termius.com/education)|Premium Plan|Mobile|
+|[DataCamp](https://www.datacamp.com/pricing/student)|3 months plan|Learn|
+|[One Month](https://onemonth.com/github/students)|30 days subsription|Learn|
+|[Education Host](https://github-students.educationhost.co.uk/)|1 Years Plan + Upgrade plan discount|Cloud|
+|[Interview Cake](https://www.interviewcake.com/github-students)|3 weeks Plan|Learn|
+|[MongoDB](https://www.mongodb.com/students)|\$200 credit + Courses + Certification|Infrastructure & APIs|
+|[GitHub Campus Experts](https://education.github.com/experts)|Complete Course|Learn|
+|[iconscout](https://iconscout.com/)|1 years Subscription + 60 Premiums icons|Design|
+|[twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)|\$50 credit + APIs|Infrastructure & APIs|
+|[testmail.app](https://testmail.app/)|Essential plan|Developing Tools|
+|[Polypane](https://polypane.app/github-students/)|1 year subscription|Design|
+|[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
+|[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
+|[ATOM](https://)|Annual Subscription|Tools|
+|[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit/github-students)|6 months Subscription|Internet of Things & Infrastructure|
+|[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
+|[Desktop](https://)|Annual Subscription|Developing Tools|
+|[netwise.](https://www.netwise.co.uk/students/)|1 years Subscription|Cloud & Internet of Things|
+|[HazeOver](https://hazeover.com/)|Lifetime|Productivity|
+|[ICONS8](https://icons8.com/github-students)|3 Months unlimited Subscription|Design|
+|[Mailgun](https://www.mailgun.com/github-students/)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
+|[Go Rails](https://)|12 months subcription – Video Lessons|Learn|
+|[Enscape](https://)|Enscape educational license|Visual Reality & Real Time Rendering|
+|[Rhino3D](https://)|Rhino3D Educational License|3D Rendering|
 |[Chaos](https://)|Student License|3D Work|
 |[Clean My Mac](https://macpaw.com/store/cleanmymac)|30% off on lifetime edition and annual plans|Tools & PC|
 |[Codecov](https://)|Public & Private repositories|Developer Tools|
