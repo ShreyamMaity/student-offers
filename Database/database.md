@@ -48,7 +48,6 @@
 |[ICONS8](https://icons8.com/github-students)|3 Months unlimited Subscription|Design|
 |[Mailgun](https://www.mailgun.com/github-students/)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
 |[Go Rails](https://gorails.com/github-students)|12 months subcription – Video Lessons|Learn|
-|[Enscape](https://)|Enscape educational license|Visual Reality & Real Time Rendering|
 |[Rhino3D](https://www.rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
 |[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering||
 |[Chaos](https://)|Student License|3D Work|
