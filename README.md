@@ -89,7 +89,7 @@
 |[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
 |[Gliffy](https://)|Student License|Diagram Drawing|
 |[Portfolio Box Pro](https://)|Student License|Portfolio creation|
-|[Lumion Pro](https://)|Student License|3D Rendering software|
+|[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://)|1 Year Student License|Data Analysing|
 |[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
 |[THINKFUL](https://)|1 Month Web Development|Learn|
