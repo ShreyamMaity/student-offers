@@ -198,7 +198,9 @@
 |[Cursa](https://cursa.app/en)|Get certified courses for free|Education|
 |[Envato Elements](https://elements.envato.com/pricing/students)|Envato Elements for Students|Design|
 |[Alibaba Cloud for Students](https://www.alibabacloud.com/campaign/education)|Free cloud servers, training courses, and certifications.|Education|
+|[IRCTC](https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,2,281,880)|Season Ticket Booking Concession for Students|Travel|
 |[Indigo](https://www.goindigo.in/add-on-services/student-discount.html)| Total baggage allowance of 25Kgs (1 pc only) including the additional allowance of 10 kgs (collectively referred to as “Benefits”).|Flight Booking Discount|
+
 <!--END_SECTION:cp-->
 
 
