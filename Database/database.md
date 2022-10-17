@@ -155,6 +155,7 @@
 |[SpiceJet](https://corporate.spicejet.com/studentdiscountlanding.aspx)|SpiceJet will provide up to 10% discount on the base fare on direct domestic ﬂights|
 |[Qoddi](https://blog.qoddi.com/flashdrive-student-program/)| Qoddi is a web hosting platform which offers $1000 per year for every student| Web Hosting|
 |[Autodesk](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)| AutoDesk is a Software company for Architecture softwares. They give special discounts to students. | Architecture Design, CAD |
+|[Audible](https://www.amazon.com/hz/audible/mlp?ie=UTF8&tag=colinfgee-20)| Access a selection of Audible Originals, audiobooks, and podcasts including exclusive series.| Learning |
 |[YouNeedABudget](https://www.youneedabudget.com/college/)| Free budgeting software for college students with student ID| Tools |
 |[Headspace](https://www.headspace.com/studentplan)|85% off|Meditation|
 |[Apple](https://www.apple.com/us-edu/store)|Discounts on Apple Products for Students|Products|
