@@ -79,7 +79,7 @@
 |[Go Rails](https://gorails.com/github-students)|12 months subcription – Video Lessons|Learn|
 |[Rhino3D](https://www.rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
 |[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering||
-|[Chaos](https://)|Student License|3D Work|
+|[Chaos](https://corona-renderer.com/education/students)|Student License|3D Work|
 |[QT](https://www.qt.io/qt-educational-license)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
 |[cPanel](https://)|Educational License|cPanel for free but faculty only|
@@ -87,7 +87,7 @@
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
 |[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
 |[Gliffy](https://help.gliffy.com/online/Content/GliffyOnline/free_for_students.htm)|Free account for active students|Diagram Drawing|
-|[Portfolio Box Pro](https://)|Student License|Portfolio creation|
+|[Portfolio Box Pro](https://www.portfoliobox.net/students)|Student License|Portfolio creation|
 |[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://www.tableau.com/academic/students)|1 Year free Student License|Data Analysing|
 |[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
