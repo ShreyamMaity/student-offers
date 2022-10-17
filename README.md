@@ -194,7 +194,7 @@
 |[Hulu for Students](https://www.hulu.com/student)|Students: Get Hulu For Just $1.99/Month.|Video Streaming|
 |[Expedia](https://www.expedia.com/student-travel-discounts)|Expedia Students Travel Offer|Tour and Travel|
 |[Impact Soundworks](https://impactsoundworks.com/support/#academic-discounts/)|Educational Offer in Impact Soundworks|Music|
-|[Oneplus](https://www.oneplus.in/education)[Educational Discount on Oneplus Products]`
+|[Oneplus](https://www.oneplus.in/education)|Educational Discount on Oneplus Products | Software |
 |[Cursa](https://cursa.app/en)|Get certified courses for free|Education|
 |[Envato Elements](https://elements.envato.com/pricing/students)|Envato Elements for Students|Design|
 |[Alibaba Cloud for Students](https://www.alibabacloud.com/campaign/education)|Free cloud servers, training courses, and certifications.|Education|
