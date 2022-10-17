@@ -68,7 +68,7 @@
 |[Amazon Prime Student (.com)](https://www.amazon.in/b?ie=UTF8&node=15307611031)|6 month Prime + prime videos(all region) + deals 7 discounts|Shopping|
 |[Unidays](https://www.myunidays.com/US/en-US)|Student Discounts|Shopping|
 |[SheerID](https://www.sheerid.com/shoppers/studentdeals/)|Student Discount|Shopping|
-|[onTheHub](https://)|Free win 10 edu if your college supports, discounts on softwares|Softwares|
+|[OnTheHub](https://onthehub.com/)|Free win 10 edu if your college supports, discounts on softwares|Softwares|
 |[PTC student](https://www.ptc.com/en/products/education/free-software/creo-college-download)|Student License|3D CAD|
 |[Intel education software](https://www.intel.com/content/www/us/en/education/intel-education.html)|Student License|Development|
 |[Newegg Premier](https://www.newegg.com/neweggpremier)|Discounts|shopping|
