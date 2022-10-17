@@ -30,6 +30,7 @@
 |Product|Offer Benefits|Type|
 |:------|:-------------|:---|
 |[Github student developer pack](https://education.github.com/pack)|\$200K worth free software for all your development needs|Development, Art, Design etc.|
+|[Bio Link](https://bio.link/)|Link in bio - the clickable URL that you can add to your profile section|Social Media Links Manager|
 |[AnyDesk Student](https://anydesk.com/en/education/free-for-students)|All Anydesk Product Licenses while you are student|Design, Art|
 |[Spotify premium student discount](https://www.spotify.com/in-en/student/)|Student Discount as low as INR66/month|Music|
 |[VS Enterprise](https://visualstudio.microsoft.com/students/)|Visual Studio Code Enterprise Subscription|Development|
@@ -51,13 +52,10 @@
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
 |[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
-|[.tech Domains](https://)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
-|[GitKraken](https://)|GitKraken Pro Kit|Developing Tools|
+|[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
-|[termius](https://)|Premium Plan|Mobile|
 |[.tech Domains](https://get.tech/)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
 |[GitKraken](https://www.gitkraken.com/github-student-developer-pack-bundle)|GitKraken Pro Kit|Developing Tools|
-|[PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html)|Lite Plan for 2 years|Productivity|
 |[termius](https://termius.com/education)|Premium Plan|Mobile|
 |[DataCamp](https://www.datacamp.com/pricing/student)|3 months plan|Learn|
 |[One Month](https://onemonth.com/github/students)|30 days subsription|Learn|
@@ -72,30 +70,30 @@
 |[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
 |[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
 |[ATOM](https://)|Annual Subscription|Tools|
-|[Arduino Education](https://)|6 months Subscription|Internet of Things & Infrastructure|
+|[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
-|[Desktop](https://)|Annual Subscription|Developing Tools|
-|[HazeOver](https://)|Lifetime|Productivity|
-|[netwise.](https://)|1 years Subscription|Cloud & Internet of Things|
+|[netwise.](https://www.netwise.co.uk/students/)|1 years Subscription|Cloud & Internet of Things|
+|[HazeOver](https://hazeover.com/)|Lifetime|Productivity|
 |[ICONS8](https://icons8.com/github-students)|3 Months unlimited Subscription|Design|
-|[Mailgun](https://)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
-|[Go Rails](https://)|12 months subcription – Video Lessons|Learn|
+|[Mailgun](https://www.mailgun.com/github-students/)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
+|[Go Rails](https://gorails.com/github-students)|12 months subcription – Video Lessons|Learn|
 |[Enscape](https://)|Enscape educational license|Visual Reality & Real Time Rendering|
-|[Rhino3D](https://)|Rhino3D Educational License|3D Rendering|
+|[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering|
+|[Rhino3D](https://www.rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
 |[Chaos](https://)|Student License|3D Work|
-|[QT](https://)|QT Educational License|Cross Platform development|
+|[QT](https://www.qt.io/qt-educational-license)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
 |[cPanel](https://)|Educational License|cPanel for free but faculty only|
 |[Figma pro](https://www.figma.com/education/)|Figma Pro License|UI/UX Designing|
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
-|[Shapr3d](https://)|Student License 1 Year|3D modeling App|
+|[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
 |[Gliffy](https://)|Student License|Diagram Drawing|
 |[Portfolio Box Pro](https://)|Student License|Portfolio creation|
-|[Lumion Pro](https://)|Student License|3D Rendering software|
+|[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://)|1 Year Student License|Data Analysing|
 |[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
 |[THINKFUL](https://)|1 Month Web Development|Learn|
-|[Invision App](https://)|Free while you are student|UI/UX Design|
+|[Invision App](https://https://www.invisionapp.com/)|Free while you are student|UI/UX Design|
 |[Basecamp account](https://)|Student License|Project management & team Collab|
 |[Amazon Prime Student (.com)](https://www.amazon.in/b?ie=UTF8&node=15307611031)|6 month Prime + prime videos(all region) + deals 7 discounts|Shopping|
 |[Unidays](https://www.myunidays.com/US/en-US)|Student Discounts|Shopping|
@@ -114,11 +112,11 @@
 |[Students beans](https://)|Membership ID|student ID for discounts|
 |[Themescale](https://)|Wordpress themes license for 1 year|Website|
 |[Hexagon Geospatail](https://)|Student License|Education|
-|[Axure education](https://)|Student License|Prototype creation software|
+|[Axure education](https://www.axure.com/edu)|Student License|Prototype creation software|
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
 |[Bhphotovideo](https://)|Student License|Shopping|
 |[Flatiron School](https://)|1 month Subscription|Learn|
-|[IMGBOT](https://)|Free Image Optimisation|Infrastructure|
+|[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://)|Premium Plan|Developers Tools|
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
@@ -129,7 +127,7 @@
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
 |[Covalence](https://)|1 month Subscription|Learn|
 |[deepsource](https://)|Pro Subscription|Tools|
-|[TOWER](https://)|Pro Subscription|Developer Tools|
+|[TOWER](https://www.git-tower.com/students/windows)|Pro Subscription|Developer Tools|
 |[Gitpod](https://)|6 months personal plan subscription|Developer Tools & Learn|
 |[Sentry](https://)|500,000 events/month with unlimited projects|Infrastructure|
 |[XOJO](https://)|Desktop License|Design & Developer Tools|
@@ -157,13 +155,13 @@
 |[POEditor](https://)|1 year subscription|Developer Tools & Infrastructure|
 |[Honeybadget.io](https://)|1 year subscription|Security & Analytics|
 |[Kaltura](https://)|\$10K/year Credits|Infrastructure|
-|[astra](https://)|6 months Subscription|Security & Analytics|
+|[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
 |[Pushbots](https://)|6 months Subscription|Infrastructure|
 |[LingoHub](https://)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
 |[Sider](https://)|Standard|Tools|
 |[Blockchair](https://)|100,000 free requests|Infrastructure|
 |[datree.io](https://)|Pro Subscription|Tools|
-|[EverSQL](https://)|6 months Subscription|Tools|
+|[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
 |[baremetrics](https://)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
 |[LambdaTEST](https://)|1 year Live Plan|Test|
 |[Sqlsmash](https://)|Standard Plan|Developing Tools|
@@ -172,7 +170,7 @@
 |[appfigures](https://appfigures.com/landing/github-student)|1 year premium plan|marketing|
 |[logDNA](https://)|50GB/monthly 1 year plan|Security & Analytics|
 |[Sofy](https://)|6 Months premium plan|Tools & Mobile|
-|[Transloadit](https://)|10 GB Startup Plan|Infrastructure & Tools|
+|[Transloadit](https://transloadit.com/github-students/)|10 GB Startup Plan|Infrastructure & Tools|
 |[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
 |[Coveralls](https://)|Unlimited private repos access|Tools|
 |[Yakindu](https://www.itemis.com/en/yakindu/state-machine/yakindu-universities/)|12 months premium|Learn|
@@ -197,6 +195,9 @@
 |[Hulu for Students](https://www.hulu.com/student)|Students: Get Hulu For Just $1.99/Month.|Video Streaming|
 |[Expedia](https://www.expedia.com/student-travel-discounts)|Expedia Students Travel Offer|Tour and Travel|
 |[Impact Soundworks](https://impactsoundworks.com/support/#academic-discounts/)|Educational Offer in Impact Soundworks|Music|
+|[Oneplus](https://www.oneplus.in/education)[Educational Discount on Oneplus Products]`
+|[Cursa](https://cursa.app/en)|Get certified courses for free|Education|
+
 <!--END_SECTION:cp-->
 
 
