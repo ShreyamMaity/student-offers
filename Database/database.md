@@ -40,7 +40,7 @@
 |[Polypane](https://polypane.app/github-students/)|1 year subscription|Design|
 |[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
 |[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
-|[ATOM](https://https://atomlearning.co.uk/pricing)|Annual Subscription|Tools|
+|[ATOM](https://)|Annual Subscription|Tools|
 |[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
 |[netwise.](https://www.netwise.co.uk/students/)|1 years Subscription|Cloud & Internet of Things|
@@ -130,7 +130,7 @@
 |[LingoHub](https://)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
 |[Sider](https://)|Standard|Tools|
 |[Blockchair](https://)|100,000 free requests|Infrastructure|
-|[datree.io](https://)|Pro Subscription|Tools|
+|[datree.io](https://https://app.datree.io/?utm=pricing_page_buy)|Pro Subscription|Tools|
 |[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
 |[baremetrics](https://)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
 |[LambdaTEST](https://)|1 year Live Plan|Test|
