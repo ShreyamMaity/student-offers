@@ -41,7 +41,7 @@
 |[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
 |[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
 |[ATOM](https://)|Annual Subscription|Tools|
-|[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit/github-students)|6 months Subscription|Internet of Things & Infrastructure|
+|[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
 |[netwise.](https://www.netwise.co.uk/students/)|1 years Subscription|Cloud & Internet of Things|
 |[HazeOver](https://hazeover.com/)|Lifetime|Productivity|
@@ -49,8 +49,8 @@
 |[Mailgun](https://www.mailgun.com/github-students/)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
 |[Go Rails](https://gorails.com/github-students)|12 months subcription – Video Lessons|Learn|
 |[Enscape](https://)|Enscape educational license|Visual Reality & Real Time Rendering|
-|[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering|
 |[Rhino3D](https://www.rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
+|[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering||
 |[Chaos](https://)|Student License|3D Work|
 |[QT](https://www.qt.io/qt-educational-license)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
@@ -60,7 +60,7 @@
 |[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
 |[Gliffy](https://)|Student License|Diagram Drawing|
 |[Portfolio Box Pro](https://)|Student License|Portfolio creation|
-|[Lumion Pro](https://)|Student License|3D Rendering software|
+|[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://)|1 Year Student License|Data Analysing|
 |[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
 |[THINKFUL](https://)|1 Month Web Development|Learn|
@@ -166,3 +166,5 @@
 |[Expedia](https://www.expedia.com/student-travel-discounts)|Expedia Students Travel Offer|Tour and Travel|
 |[Impact Soundworks](https://impactsoundworks.com/support/#academic-discounts/)|Educational Offer in Impact Soundworks|Music|
 |[Oneplus](https://www.oneplus.in/education)[Educational Discount on Oneplus Products]`
+|[Cursa](https://cursa.app/en)|Get certified courses for free|Education|
+|[Envato Elements](https://elements.envato.com/pricing/students)|Envato Elements for Students|Design|
