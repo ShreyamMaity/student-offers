@@ -78,7 +78,7 @@
 |[Send grid](https://)|Student License|STMP mail system|
 |[Bitnami](https://)|Student License free|pre-packaged images for automated setup of popular server software on Windows, Mac OS|
 |[Crowflower](https://)|Student License|AI ML training software|
-|[Squarespace](https://)|Discount and Free months|education|
+|[Squarespace](https://www.squarespace.com/coupons)|Discount and Free months|education|
 |[Students beans](https://www.studentbeans.com/student-discount/uk/all)|Membership ID|student ID for discounts|
 |[Themescale](https://)|Wordpress themes license for 1 year|Website|
 |[Hexagon Geospatail](https://)|Student License|Education|
