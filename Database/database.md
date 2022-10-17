@@ -168,3 +168,4 @@
 |[Oneplus](https://www.oneplus.in/education)[Educational Discount on Oneplus Products]`
 |[Cursa](https://cursa.app/en)|Get certified courses for free|Education|
 |[Envato Elements](https://elements.envato.com/pricing/students)|Envato Elements for Students|Design|
+|[Alibaba Cloud for Students](https://www.alibabacloud.com/campaign/education)|Free cloud servers, training courses, and certifications.|Education|
