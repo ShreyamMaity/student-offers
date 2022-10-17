@@ -86,7 +86,7 @@
 |[Figma pro](https://www.figma.com/education/)|Figma Pro License|UI/UX Designing|
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
 |[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
-|[Gliffy](https://)|Student License|Diagram Drawing|
+|[Gliffy](https://help.gliffy.com/online/Content/GliffyOnline/free_for_students.htm)|Free account for active students|Diagram Drawing|
 |[Portfolio Box Pro](https://)|Student License|Portfolio creation|
 |[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://)|1 Year Student License|Data Analysing|
