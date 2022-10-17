@@ -163,7 +163,7 @@
 |[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
 |[baremetrics](https://)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
 |[LambdaTEST](https://)|1 year Live Plan|Test|
-|[Sqlsmash](https://)|Standard Plan|Developing Tools|
+|[Sqlsmash](https://sqlsmash.com/buy.html)|Standard Plan|Developing Tools|
 |[Wisej](https://)|Premium plus plan|Infrastructure|
 |[AccessLint](https://)|Access public and Private repos|Repos|
 |[appfigures](https://appfigures.com/landing/github-student)|1 year premium plan|marketing|
