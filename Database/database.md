@@ -84,12 +84,12 @@
 |[Hexagon Geospatail](https://)|Student License|Education|
 |[Axure education](https://www.axure.com/edu)|Student License|Prototype creation software|
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
-|[Bhphotovideo](https://)|Student License|Shopping|
+|[Bhphotovideo](https://www.bhphotovideo.com/find/eduAdvantage.jsp)|Student License|Shopping|
 |[Flatiron School](https://)|1 month Subscription|Learn|
 |[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://)|Premium Plan|Developers Tools|
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
-|[Kodika.io](https://)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
+|[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
 |[Adafruit](https://)|1 year subscription|Internet of Things & Infrastructure APIs|
 |[Dashlane](https://)|6 Months premium plan|Productivity|
