@@ -89,7 +89,7 @@
 |[Gliffy](https://help.gliffy.com/online/Content/GliffyOnline/free_for_students.htm)|Free account for active students|Diagram Drawing|
 |[Portfolio Box Pro](https://)|Student License|Portfolio creation|
 |[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
-|[Tableau Desktop](https://)|1 Year Student License|Data Analysing|
+|[Tableau Desktop](https://www.tableau.com/academic/students)|1 Year free Student License|Data Analysing|
 |[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
 |[THINKFUL](https://)|1 Month Web Development|Learn|
 |[Invision App](https://https://www.invisionapp.com/)|Free while you are student|UI/UX Design|
