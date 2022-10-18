@@ -107,20 +107,20 @@
 |[Send grid](https://)|Student License|STMP mail system|
 |[Bitnami](https://)|Student License free|pre-packaged images for automated setup of popular server software on Windows, Mac OS|
 |[Crowflower](https://)|Student License|AI ML training software|
-|[Squarespace](https://)|Discount and Free months|education|
+|[Squarespace](https://www.squarespace.com/coupons)|Discount and Free months|education|
 |[Students beans](https://www.studentbeans.com/student-discount/uk/all)|Membership ID|student ID for discounts|
 |[Themescale](https://)|Wordpress themes license for 1 year|Website|
 |[Hexagon Geospatail](https://)|Student License|Education|
 |[Axure education](https://www.axure.com/edu)|Student License|Prototype creation software|
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
-|[Bhphotovideo](https://)|Student License|Shopping|
+|[Bhphotovideo](https://www.bhphotovideo.com/find/eduAdvantage.jsp)|Student License|Shopping|
 |[Flatiron School](https://)|1 month Subscription|Learn|
 |[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://)|Premium Plan|Developers Tools|
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
-|[Kodika.io](https://)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
+|[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
-|[Adafruit](https://)|1 year subscription|Internet of Things & Infrastructure APIs|
+|[Adafruit]((https://www.adafruit.com/product/3792)/)|1 year subscription|Internet of Things & Infrastructure APIs|
 |[Dashlane](https://)|6 Months premium plan|Productivity|
 |[Travis CI](https://)|Open Source|Developer Tools & Internet of Things|
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
@@ -140,7 +140,7 @@
 |[Codecov](https://)|Public & Private repositories|Developer Tools|
 |[CART](https://)|2 Years Premium Plan|Infrastructure|
 |[Customerly](https://)|6 months pro plan|Infrastructure & Marketing|
-|[SQLGATE](https://)|1 Years Plan Subscription|Tools|
+|[SQLGATE](https://www.sqlgate.com/pricing/subscription?language=en)|1 Years Plan Subscription|Tools|
 |[Vaadin](https://)|Pro Subscription|Infrastructure & APIs|
 |[Restyled](https://)|Private Repositories|Tools|
 |[Deepscan](https://)|6 Months premium plan|Tools|
@@ -163,7 +163,7 @@
 |[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
 |[baremetrics](https://)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
 |[LambdaTEST](https://)|1 year Live Plan|Test|
-|[Sqlsmash](https://)|Standard Plan|Developing Tools|
+|[Sqlsmash](https://sqlsmash.com/buy.html)|Standard Plan|Developing Tools|
 |[Wisej](https://)|Premium plus plan|Infrastructure|
 |[AccessLint](https://)|Access public and Private repos|Repos|
 |[appfigures](https://appfigures.com/landing/github-student)|1 year premium plan|marketing|
@@ -171,7 +171,7 @@
 |[Sofy](https://)|6 Months premium plan|Tools & Mobile|
 |[Transloadit](https://transloadit.com/github-students/)|10 GB Startup Plan|Infrastructure & Tools|
 |[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
-|[Coveralls](https://)|Unlimited private repos access|Tools|
+|[Coveralls](https://coveralls.io/github-students)|Unlimited private repos access|Tools|
 |[Yakindu](https://www.itemis.com/en/yakindu/state-machine/yakindu-universities/)|12 months premium|Learn|
 |[Storyscript](https://)|12 months business|Infrastructure|
 |[Crowdin](https://crowdin.com/page/github-students)|12 months premium|Tools, Infrastructure , Productivity|
@@ -194,11 +194,14 @@
 |[Hulu for Students](https://www.hulu.com/student)|Students: Get Hulu For Just $1.99/Month.|Video Streaming|
 |[Expedia](https://www.expedia.com/student-travel-discounts)|Expedia Students Travel Offer|Tour and Travel|
 |[Impact Soundworks](https://impactsoundworks.com/support/#academic-discounts/)|Educational Offer in Impact Soundworks|Music|
-|[Oneplus](https://www.oneplus.in/education)[Educational Discount on Oneplus Products]`
+|[Oneplus](https://www.oneplus.in/education)|Educational Discount on Oneplus Products | Software |
 |[Cursa](https://cursa.app/en)|Get certified courses for free|Education|
 |[Envato Elements](https://elements.envato.com/pricing/students)|Envato Elements for Students|Design|
 |[Alibaba Cloud for Students](https://www.alibabacloud.com/campaign/education)|Free cloud servers, training courses, and certifications.|Education|
-
+|[IRCTC](https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,2,281,880)|Season Ticket Booking Concession for Students|Travel|
+|[Indigo](https://www.goindigo.in/add-on-services/student-discount.html)| Total baggage allowance of 25Kgs (1 pc only) including the additional allowance of 10 kgs (collectively referred to as “Benefits”).|Flight Booking Discount|
+|[StudentMoneySaver](https://www.studentmoneysaver.co.uk/)|Provide lucrative discounts on top brands for students| Shopping |
+|[Dell](https://www.dell.com/en-in/lp/student-laptop-discount#Featured-Student-Laptops)|Provide discounts on laptops and free delivery for students|Products|
 <!--END_SECTION:cp-->
 
 
