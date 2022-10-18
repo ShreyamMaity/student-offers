@@ -121,7 +121,7 @@
 |[USE together](https://)|1 year subscription|ProductiveTools|
 |[Algolia](https://)|1 year subscription|Infrastructure|
 |[Better Code Hub](https://)|Individual License & Access private repos|Developing Tools|
-|[Daily BOT](https://)|6 Months Business|Productivity|
+|[Daily BOT](https://www.dailybot.com/pricing)|6 Months Business|Productivity|
 |[POEditor](https://)|1 year subscription|Developer Tools & Infrastructure|
 |[Honeybadget.io](https://)|1 year subscription|Security & Analytics|
 |[Kaltura](https://)|\$10K/year Credits|Infrastructure|
