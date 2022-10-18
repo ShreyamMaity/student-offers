@@ -62,7 +62,7 @@
 |[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://www.tableau.com/academic/students)|1 Year free Student License|Data Analysing|
 |[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
-|[THINKFUL](https://)|1 Month Web Development|Learn|
+|[THINKFUL](https://www.thinkful.com/blog/github-adds-thinkful-to-student-developer-pack/)|1 Month Web Development|Learn|
 |[Invision App](https://https://www.invisionapp.com/)|Free while you are student|UI/UX Design|
 |[Basecamp account](https://basecamp.com/discounts)|Free account for teachers and students|Project management & team Collab|
 |[Amazon Prime Student (.com)](https://www.amazon.in/b?ie=UTF8&node=15307611031)|6 month Prime + prime videos(all region) + deals 7 discounts|Shopping|
