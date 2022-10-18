@@ -81,7 +81,7 @@
 |[Squarespace](https://www.squarespace.com/coupons)|Discount and Free months|education|
 |[Students beans](https://www.studentbeans.com/student-discount/uk/all)|Membership ID|student ID for discounts|
 |[Themescale](https://)|Wordpress themes license for 1 year|Website|
-|[Hexagon Geospatail](https://)|Student License|Education|
+|[Hexagon Geospatail](https://hexagon.com/company/divisions/safety-infrastructure-geospatial/education-program)|Student License|Education|
 |[Axure education](https://www.axure.com/edu)|Student License|Prototype creation software|
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
 |[Bhphotovideo](https://www.bhphotovideo.com/find/eduAdvantage.jsp)|Student License|Shopping|
