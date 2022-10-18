@@ -91,7 +91,7 @@
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
-|[Adafruit](https://)|1 year subscription|Internet of Things & Infrastructure APIs|
+|[Adafruit]((https://www.adafruit.com/product/3792)/)|1 year subscription|Internet of Things & Infrastructure APIs|
 |[Dashlane](https://)|6 Months premium plan|Productivity|
 |[Travis CI](https://)|Open Source|Developer Tools & Internet of Things|
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
@@ -111,7 +111,7 @@
 |[Codecov](https://)|Public & Private repositories|Developer Tools|
 |[CART](https://)|2 Years Premium Plan|Infrastructure|
 |[Customerly](https://)|6 months pro plan|Infrastructure & Marketing|
-|[SQLGATE](https://)|1 Years Plan Subscription|Tools|
+|[SQLGATE](https://www.sqlgate.com/pricing/subscription?language=en)|1 Years Plan Subscription|Tools|
 |[Vaadin](https://)|Pro Subscription|Infrastructure & APIs|
 |[Restyled](https://)|Private Repositories|Tools|
 |[Deepscan](https://)|6 Months premium plan|Tools|
