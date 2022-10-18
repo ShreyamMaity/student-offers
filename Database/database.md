@@ -173,3 +173,4 @@
 |[StudentMoneySaver](https://www.studentmoneysaver.co.uk/)|Provide lucrative discounts on top brands for students| Shopping |
 |[Dell](https://www.dell.com/en-in/lp/student-laptop-discount#Featured-Student-Laptops)|Provide discounts on laptops and free delivery for students|Products|
 |[Mubi](https://mubi.com/promos/student-india)|90 days of hand-picked films for free. Only for students.| Cinema Streaming |
+|[Lenovo Student Store](https://www.lenovo.com/in/en/d/students-offer/)| Special discounts for College and School Students |Products|
