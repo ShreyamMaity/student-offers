@@ -204,7 +204,7 @@
 |[Lenovo Student Store](https://www.lenovo.com/in/en/d/students-offer/)| Special discounts for College and School Students |Products|
 |[Air India](https://www.airindia.in/student-concession.htm)|Student concession on flights|Travel|
 |[Mubi](https://mubi.com/promos/student-india)|90 days of hand-picked films for free. Only for students.| Cinema Streaming |
-|[Lenovo Student Store](https://www.lenovo.com/in/en/d/students-offer/)| Special discounts for College and School Students |Products|
+
 <!--END_SECTION:cp-->
 
 
