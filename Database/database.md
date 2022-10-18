@@ -173,3 +173,4 @@
 |[Indigo](https://www.goindigo.in/add-on-services/student-discount.html)| Total baggage allowance of 25Kgs (1 pc only) including the additional allowance of 10 kgs (collectively referred to as “Benefits”).|Flight Booking Discount|
 |[StudentMoneySaver](https://www.studentmoneysaver.co.uk/)|Provide lucrative discounts on top brands for students| Shopping |
 |[Dell](https://www.dell.com/en-in/lp/student-laptop-discount#Featured-Student-Laptops)|Provide discounts on laptops and free delivery for students|Products|
+|[Air India](https://www.airindia.in/student-concession.htm)|Student Concession on flight tickets|Travel|
