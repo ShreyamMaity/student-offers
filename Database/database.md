@@ -98,7 +98,7 @@
 |[Covalence](https://)|1 month Subscription|Learn|
 |[deepsource](https://)|Pro Subscription|Tools|
 |[TOWER](https://www.git-tower.com/students/windows)|Pro Subscription|Developer Tools|
-|[Gitpod](https://)|6 months personal plan subscription|Developer Tools & Learn|
+|[Gitpod](https://https://www.gitpod.io/github-student-developer-pack)|6 months personal plan subscription|Developer Tools & Learn|
 |[Sentry](https://)|500,000 events/month with unlimited projects|Infrastructure|
 |[XOJO](https://)|Desktop License|Design & Developer Tools|
 |[Working Copy](https://)|Pro Subscription|Developer Tools & Mobile|
