@@ -91,7 +91,7 @@
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
-|[Adafruit]((https://www.adafruit.com/product/3792)/)|1 year subscription|Internet of Things & Infrastructure APIs|
+|[Adafruit](https://www.adafruit.com/product/3792/)|1 year subscription|Internet of Things & Infrastructure APIs|
 |[Dashlane](https://www.dashlane.com/lp/neverforget-cj?utm_source=cj&utm_campaign=7318071&utm_medium=Prime-Elite+LLC&utm_term=13955840&utm_content=819118594ef411ed82b801060a18b8f7)|6 Months premium plan|Productivity|
 |[Travis CI](https://)|Open Source|Developer Tools & Internet of Things|
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
