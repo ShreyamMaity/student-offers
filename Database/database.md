@@ -112,7 +112,7 @@
 |[CART](https://)|2 Years Premium Plan|Infrastructure|
 |[Customerly](https://)|6 months pro plan|Infrastructure & Marketing|
 |[SQLGATE](https://www.sqlgate.com/pricing/subscription?language=en)|1 Years Plan Subscription|Tools|
-|[Vaadin](https://)|Pro Subscription|Infrastructure & APIs|
+|[Vaadin](https://vaadin.com/student-program)|Pro Subscription|Infrastructure & APIs|
 |[Restyled](https://)|Private Repositories|Tools|
 |[Deepscan](https://)|6 Months premium plan|Tools|
 |[Weglot](https://)|1 year|Tools & Infrastructure & APIS|
