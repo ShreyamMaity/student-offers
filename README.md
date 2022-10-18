@@ -120,7 +120,7 @@
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
-|[Adafruit](https://)|1 year subscription|Internet of Things & Infrastructure APIs|
+|[Adafruit]((https://www.adafruit.com/product/3792)/)|1 year subscription|Internet of Things & Infrastructure APIs|
 |[Dashlane](https://)|6 Months premium plan|Productivity|
 |[Travis CI](https://)|Open Source|Developer Tools & Internet of Things|
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
@@ -140,7 +140,7 @@
 |[Codecov](https://)|Public & Private repositories|Developer Tools|
 |[CART](https://)|2 Years Premium Plan|Infrastructure|
 |[Customerly](https://)|6 months pro plan|Infrastructure & Marketing|
-|[SQLGATE](https://)|1 Years Plan Subscription|Tools|
+|[SQLGATE](https://www.sqlgate.com/pricing/subscription?language=en)|1 Years Plan Subscription|Tools|
 |[Vaadin](https://)|Pro Subscription|Infrastructure & APIs|
 |[Restyled](https://)|Private Repositories|Tools|
 |[Deepscan](https://)|6 Months premium plan|Tools|
@@ -171,7 +171,7 @@
 |[Sofy](https://)|6 Months premium plan|Tools & Mobile|
 |[Transloadit](https://transloadit.com/github-students/)|10 GB Startup Plan|Infrastructure & Tools|
 |[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
-|[Coveralls](https://)|Unlimited private repos access|Tools|
+|[Coveralls](https://coveralls.io/github-students)|Unlimited private repos access|Tools|
 |[Yakindu](https://www.itemis.com/en/yakindu/state-machine/yakindu-universities/)|12 months premium|Learn|
 |[Storyscript](https://)|12 months business|Infrastructure|
 |[Crowdin](https://crowdin.com/page/github-students)|12 months premium|Tools, Infrastructure , Productivity|
@@ -201,6 +201,7 @@
 |[IRCTC](https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,2,281,880)|Season Ticket Booking Concession for Students|Travel|
 |[Indigo](https://www.goindigo.in/add-on-services/student-discount.html)| Total baggage allowance of 25Kgs (1 pc only) including the additional allowance of 10 kgs (collectively referred to as “Benefits”).|Flight Booking Discount|
 |[StudentMoneySaver](https://www.studentmoneysaver.co.uk/)|Provide lucrative discounts on top brands for students| Shopping |
+|[Dell](https://www.dell.com/en-in/lp/student-laptop-discount#Featured-Student-Laptops)|Provide discounts on laptops and free delivery for students|Products|
 <!--END_SECTION:cp-->
 
 
