@@ -142,7 +142,7 @@
 |[Sofy](https://)|6 Months premium plan|Tools & Mobile|
 |[Transloadit](https://transloadit.com/github-students/)|10 GB Startup Plan|Infrastructure & Tools|
 |[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
-|[Coveralls](https://)|Unlimited private repos access|Tools|
+|[Coveralls](https://coveralls.io/github-students)|Unlimited private repos access|Tools|
 |[Yakindu](https://www.itemis.com/en/yakindu/state-machine/yakindu-universities/)|12 months premium|Learn|
 |[Storyscript](https://)|12 months business|Infrastructure|
 |[Crowdin](https://crowdin.com/page/github-students)|12 months premium|Tools, Infrastructure , Productivity|
@@ -172,3 +172,4 @@
 |[IRCTC](https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,2,281,880)|Season Ticket Booking Concession for Students|Travel|
 |[Indigo](https://www.goindigo.in/add-on-services/student-discount.html)| Total baggage allowance of 25Kgs (1 pc only) including the additional allowance of 10 kgs (collectively referred to as “Benefits”).|Flight Booking Discount|
 |[StudentMoneySaver](https://www.studentmoneysaver.co.uk/)|Provide lucrative discounts on top brands for students| Shopping |
+|[Dell](https://www.dell.com/en-in/lp/student-laptop-discount#Featured-Student-Laptops)|Provide discounts on laptops and free delivery for students|Products|
