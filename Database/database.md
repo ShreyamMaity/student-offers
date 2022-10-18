@@ -107,7 +107,7 @@
 |[BrowserStack](https://)|Automate 1 year plan|Developing Tools|
 |[Freshpoint](https://)|Growth Plan|Marketing & APIs|
 |[blackfire.io](https://)|Profiler Subscription|Security & Analytics|
-|[Neve’s](https://)|1 year agency wordpress theme|Design & APIs|
+|[Neve’s](https://themeisle.com/github-students/)|1 year agency wordpress theme|Design & APIs|
 |[Codecov](https://)|Public & Private repositories|Developer Tools|
 |[CART](https://)|2 Years Premium Plan|Infrastructure|
 |[Customerly](https://)|6 months pro plan|Infrastructure & Marketing|
