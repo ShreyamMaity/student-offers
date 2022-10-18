@@ -91,7 +91,7 @@
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
-|[Adafruit](https://)|1 year subscription|Internet of Things & Infrastructure APIs|
+|[Adafruit]((https://www.adafruit.com/product/3792)/)|1 year subscription|Internet of Things & Infrastructure APIs|
 |[Dashlane](https://)|6 Months premium plan|Productivity|
 |[Travis CI](https://)|Open Source|Developer Tools & Internet of Things|
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
@@ -111,7 +111,7 @@
 |[Codecov](https://)|Public & Private repositories|Developer Tools|
 |[CART](https://)|2 Years Premium Plan|Infrastructure|
 |[Customerly](https://)|6 months pro plan|Infrastructure & Marketing|
-|[SQLGATE](https://)|1 Years Plan Subscription|Tools|
+|[SQLGATE](https://www.sqlgate.com/pricing/subscription?language=en)|1 Years Plan Subscription|Tools|
 |[Vaadin](https://)|Pro Subscription|Infrastructure & APIs|
 |[Restyled](https://)|Private Repositories|Tools|
 |[Deepscan](https://)|6 Months premium plan|Tools|
@@ -160,7 +160,6 @@
 |[Apple](https://www.apple.com/us-edu/store)|Discounts on Apple Products for Students|Products|
 |[Evernote](https://evernote.com/students)|Get 50% off a full year of Evernote Personal.|Education|
 |[Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US)|Get certified courses for free with Financial Aid|Education|
-|[SpiceJet](https://corporate.spicejet.com/studentdiscountlanding.aspx)|Extra 10% discount for all students|Travel|
 |[Microsoft for Students](https://msftstudentcert.cloudreadyskills.com/)|Free 8 Microsoft Certification. Required: .edu email address.|Certification|
 |[Hulu for Students](https://www.hulu.com/student)|Students: Get Hulu For Just $1.99/Month.|Video Streaming|
 |[Expedia](https://www.expedia.com/student-travel-discounts)|Expedia Students Travel Offer|Tour and Travel|
@@ -173,4 +172,5 @@
 |[Indigo](https://www.goindigo.in/add-on-services/student-discount.html)| Total baggage allowance of 25Kgs (1 pc only) including the additional allowance of 10 kgs (collectively referred to as “Benefits”).|Flight Booking Discount|
 |[StudentMoneySaver](https://www.studentmoneysaver.co.uk/)|Provide lucrative discounts on top brands for students| Shopping |
 |[Dell](https://www.dell.com/en-in/lp/student-laptop-discount#Featured-Student-Laptops)|Provide discounts on laptops and free delivery for students|Products|
+|[Lenovo Student Store](https://www.lenovo.com/in/en/d/students-offer/)| Special discounts for College and School Students |Products|
 |[Air India](https://www.airindia.in/student-concession.htm)|Student concession on flights|Travel|
