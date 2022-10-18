@@ -205,6 +205,7 @@
 |[Air India](https://www.airindia.in/student-concession.htm)|Student concession on flights|Travel|
 |[Mubi](https://mubi.com/promos/student-india)|90 days of hand-picked films for free. Only for students.| Cinema Streaming |
 |[VOXI for Students](https://www.voxi.co.uk/acquisition/students)|Students get first month free.|Cellular Data|
+|[Amazon](https://www.primevideo.com/)|Student concession on prime video|entertainment|
 
 <!--END_SECTION:cp-->
 
