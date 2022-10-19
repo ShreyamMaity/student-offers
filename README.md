@@ -116,7 +116,7 @@
 |[Bhphotovideo](https://www.bhphotovideo.com/find/eduAdvantage.jsp)|Student License|Shopping|
 |[Flatiron School](https://)|1 month Subscription|Learn|
 |[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
-|[POPSQL](https://)|Premium Plan|Developers Tools|
+|[POPSQL](https://popsql.com/github-students)|Premium Plan|Developers Tools|
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
@@ -161,7 +161,7 @@
 |[Blockchair](https://)|100,000 free requests|Infrastructure|
 |[datree.io](https://)|Pro Subscription|Tools|
 |[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
-|[baremetrics](https://)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
+|[baremetrics](https://baremetrics.com/github-students)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
 |[LambdaTEST](https://www.lambdatest.com/github-students)|1 year Live Plan|Test|
 |[LambdaTEST](https://www.lambdatest.com/pricing)|1 year Live Plan|Test|
 |[Sqlsmash](https://sqlsmash.com/buy.html)|Standard Plan|Developing Tools|
