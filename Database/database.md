@@ -119,7 +119,7 @@
 |[SQLGATE](https://)|1 Years Plan Subscription|Tools|
 |[Vaadin](https://)|Pro Subscription|Infrastructure & APIs|
 |[Restyled](https://)|Private Repositories|Tools|
-|[Deepscan](https://)|6 Months premium plan|Tools|
+|[Deepscan](https://deepscan.io/github-student-pack)|6 Months premium plan|Tools|
 |[Weglot](https://)|1 year|Tools & Infrastructure & APIS|
 |[CodeScene](https://)|Private Github repositories|Security & Analytics|
 |[Simple Analytics](https://)|1 year subscription|Infrastructure & Marketing|
