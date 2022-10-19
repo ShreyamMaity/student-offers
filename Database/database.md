@@ -104,7 +104,7 @@
 |[Working Copy](https://)|Pro Subscription|Developer Tools & Mobile|
 |[CryptoLens](https://)|10 Licenses|Infrastructure|
 |[Jaamly](https://)|6 Months startup plan|Marketing|
-|[BrowserStack](https://www.browserstack.com/pricing?product=automate&utm_source=google&utm_medium=cpc&utm_campaign=Search-Brand-India&utm_adgroup=BrowserStack-Alpha&utm_keyword=browser%20stack&utm_matchtype=e)|Automate 1 year plan|Developing Tools|
+|[BrowserStack](https://)|Automate 1 year plan|Developing Tools|
 |[Freshpoint](https://)|Growth Plan|Marketing & APIs|
 |[blackfire.io](https://)|Profiler Subscription|Security & Analytics|
 |[Neve’s](https://themeisle.com/github-students/)|1 year agency wordpress theme|Design & APIs|
@@ -145,7 +145,7 @@
 |[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
 |[Coveralls](https://coveralls.io/github-students)|Unlimited private repos access|Tools|
 |[Yakindu](https://www.itemis.com/en/yakindu/state-machine/yakindu-universities/)|12 months premium|Learn|
-|[Storyscript](https://)|12 months business|Infrastructure|
+|[Storyscript](https://github.com/StoryScriptorg/StoryScript)|12 months business|Infrastructure|
 |[Crowdin](https://crowdin.com/page/github-students)|12 months premium|Tools, Infrastructure , Productivity|
 |[Transifex](https://www.transifex.com/pricing/)|6 Months premium|Infrastructure & Tools|
 |[Minecraft Educational License](https://education.minecraft.net/en-us/licensing)|Educational License of Minecraft|Game|
