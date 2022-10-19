@@ -120,16 +120,16 @@
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
-|[Adafruit](https://www.adafruit.com/product/3792/)|1 year subscription|Internet of Things & Infrastructure APIs|
-|[Dashlane](https://www.dashlane.com/lp/neverforget-cj?utm_source=cj&utm_campaign=7318071&utm_medium=Prime-Elite+LLC&utm_term=13955840&utm_content=819118594ef411ed82b801060a18b8f7)|6 Months premium plan|Productivity|
-|[Travis CI](https://)|Open Source|Developer Tools & Internet of Things|
+|[Adafruit](https://www.adafruit.com/github-students)|1 year subscription|Internet of Things & Infrastructure APIs|
+|[Dashlane](https://www.dashlane.com/github-students)|6 Months premium plan|Productivity|
+|[Travis CI](https://education.travis-ci.com/)|Open Source|Developer Tools & Internet of Things|
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
 |[Covalence](https://)|1 month Subscription|Learn|
 |[deepsource](https://)|Pro Subscription|Tools|
-|[TOWER](https://www.git-tower.com/students/windows)|Pro Subscription|Developer Tools|
-|[Gitpod](https://https://www.gitpod.io/github-student-developer-pack)|6 months personal plan subscription|Developer Tools & Learn|
+|[TOWER](https://)|Pro Subscription|Developer Tools|
+|[Gitpod](https://gitpod.io/plans/)|6 months personal plan subscription|Developer Tools & Learn|
 |[Sentry](https://)|500,000 events/month with unlimited projects|Infrastructure|
-|[XOJO](https://)|Desktop License|Design & Developer Tools|
+|[XOJO](https://www.xojo.com/githubstudent/)|Desktop License|Design & Developer Tools|
 |[Working Copy](https://)|Pro Subscription|Developer Tools & Mobile|
 |[CryptoLens](https://)|10 Licenses|Infrastructure|
 |[Jaamly](https://)|6 Months startup plan|Marketing|
@@ -143,16 +143,16 @@
 |[SQLGATE](https://www.sqlgate.com/pricing/subscription?language=en)|1 Years Plan Subscription|Tools|
 |[Vaadin](https://vaadin.com/student-program)|Pro Subscription|Infrastructure & APIs|
 |[Restyled](https://)|Private Repositories|Tools|
-|[Deepscan](https://)|6 Months premium plan|Tools|
+|[Deepscan](https://deepscan.io/github-student-pack)|6 Months premium plan|Tools|
 |[Weglot](https://)|1 year|Tools & Infrastructure & APIS|
 |[CodeScene](https://)|Private Github repositories|Security & Analytics|
 |[Simple Analytics](https://)|1 year subscription|Infrastructure & Marketing|
 |[USE together](https://)|1 year subscription|ProductiveTools|
 |[Algolia](https://)|1 year subscription|Infrastructure|
-|[Better Code Hub](https://)|Individual License & Access private repos|Developing Tools|
+|[Better Code Hub](https://bettercodehub.com/github-student-developer-pack)|Individual License & Access private repos|Developing Tools|
 |[Daily BOT](https://www.dailybot.com/pricing)|6 Months Business|Productivity|
 |[POEditor](https://)|1 year subscription|Developer Tools & Infrastructure|
-|[Honeybadget.io](https://)|1 year subscription|Security & Analytics|
+|[Honeybadger.io](https://www.honeybadger.io/github-students/)|1 year subscription|Security & Analytics|
 |[Kaltura](https://)|\$10K/year Credits|Infrastructure|
 |[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
 |[Pushbots](https://)|6 months Subscription|Infrastructure|
@@ -162,6 +162,7 @@
 |[datree.io](https://)|Pro Subscription|Tools|
 |[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
 |[baremetrics](https://)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
+|[LambdaTEST](https://www.lambdatest.com/github-students)|1 year Live Plan|Test|
 |[LambdaTEST](https://www.lambdatest.com/pricing)|1 year Live Plan|Test|
 |[Sqlsmash](https://sqlsmash.com/buy.html)|Standard Plan|Developing Tools|
 |[Wisej](https://)|Premium plus plan|Infrastructure|
