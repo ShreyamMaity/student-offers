@@ -118,7 +118,7 @@
 |[Weglot](https://)|1 year|Tools & Infrastructure & APIS|
 |[CodeScene](https://codescene.com/github-students)|Private Github repositories|Security & Analytics|
 |[Simple Analytics](https://)|1 year subscription|Infrastructure & Marketing|
-|[USE together]()|1 year subscription|ProductiveTools|
+|[USE together](https://)|1 year subscription|ProductiveTools|
 |[Algolia](https://)|1 year subscription|Infrastructure|
 |[Better Code Hub](https://bettercodehub.com/github-student-developer-pack)|Individual License & Access private repos|Developing Tools|
 |[Daily BOT](https://www.dailybot.com/pricing)|6 Months Business|Productivity|
