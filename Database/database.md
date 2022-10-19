@@ -96,16 +96,16 @@
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
-|[Adafruit](https://)|1 year subscription|Internet of Things & Infrastructure APIs|
-|[Dashlane](https://)|6 Months premium plan|Productivity|
-|[Travis CI](https://)|Open Source|Developer Tools & Internet of Things|
+|[Adafruit](https://www.adafruit.com/github-students)|1 year subscription|Internet of Things & Infrastructure APIs|
+|[Dashlane](https://www.dashlane.com/github-students)|6 Months premium plan|Productivity|
+|[Travis CI](https://education.travis-ci.com/)|Open Source|Developer Tools & Internet of Things|
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
 |[Covalence](https://)|1 month Subscription|Learn|
 |[deepsource](https://)|Pro Subscription|Tools|
 |[TOWER](https://)|Pro Subscription|Developer Tools|
-|[Gitpod](https://)|6 months personal plan subscription|Developer Tools & Learn|
+|[Gitpod](https://gitpod.io/plans/)|6 months personal plan subscription|Developer Tools & Learn|
 |[Sentry](https://)|500,000 events/month with unlimited projects|Infrastructure|
-|[XOJO](https://)|Desktop License|Design & Developer Tools|
+|[XOJO](https://www.xojo.com/githubstudent/)|Desktop License|Design & Developer Tools|
 |[Working Copy](https://)|Pro Subscription|Developer Tools & Mobile|
 |[CryptoLens](https://)|10 Licenses|Infrastructure|
 |[Jaamly](https://)|6 Months startup plan|Marketing|
@@ -125,12 +125,12 @@
 |[Simple Analytics](https://)|1 year subscription|Infrastructure & Marketing|
 |[USE together](https://)|1 year subscription|ProductiveTools|
 |[Algolia](https://)|1 year subscription|Infrastructure|
-|[Better Code Hub](https://)|Individual License & Access private repos|Developing Tools|
+|[Better Code Hub](https://bettercodehub.com/github-student-developer-pack)|Individual License & Access private repos|Developing Tools|
 |[Daily BOT](https://)|6 Months Business|Productivity|
 |[POEditor](https://)|1 year subscription|Developer Tools & Infrastructure|
-|[Honeybadget.io](https://)|1 year subscription|Security & Analytics|
+|[Honeybadger.io](https://www.honeybadger.io/github-students/)|1 year subscription|Security & Analytics|
 |[Kaltura](https://)|\$10K/year Credits|Infrastructure|
-|[astra](https://)|6 months Subscription|Security & Analytics|
+|[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
 |[Pushbots](https://)|6 months Subscription|Infrastructure|
 |[LingoHub](https://)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
 |[Sider](https://)|Standard|Tools|
@@ -138,7 +138,7 @@
 |[datree.io](https://)|Pro Subscription|Tools|
 |[EverSQL](https://)|6 months Subscription|Tools|
 |[baremetrics](https://)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
-|[LambdaTEST](https://)|1 year Live Plan|Test|
+|[LambdaTEST](https://www.lambdatest.com/github-students)|1 year Live Plan|Test|
 |[Sqlsmash](https://)|Standard Plan|Developing Tools|
 |[Wisej](https://)|Premium plus plan|Infrastructure|
 |[AccessLint](https://)|Access public and Private repos|Repos|
