@@ -126,7 +126,7 @@
 |[Honeybadger.io](https://www.honeybadger.io/github-students/)|1 year subscription|Security & Analytics|
 |[Kaltura](https://)|\$10K/year Credits|Infrastructure|
 |[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
-|[Pushbots](https://)|6 months Subscription|Infrastructure|
+|[Pushbots](https://pushbots.com/for/education/)|6 months Subscription|Infrastructure|
 |[LingoHub](https://)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
 |[Sider](https://)|Standard|Tools|
 |[Blockchair](https://)|100,000 free requests|Infrastructure|
