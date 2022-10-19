@@ -133,7 +133,7 @@
 |[Working Copy](https://)|Pro Subscription|Developer Tools & Mobile|
 |[CryptoLens](https://)|10 Licenses|Infrastructure|
 |[Jaamly](https://)|6 Months startup plan|Marketing|
-|[BrowserStack](https://www.browserstack.com/pricing?product=automate&utm_source=google&utm_medium=cpc&utm_campaign=Search-Brand-India&utm_adgroup=BrowserStack-Alpha&utm_keyword=browser%20stack&utm_matchtype=e)|Automate 1 year plan|Developing Tools|
+|[BrowserStack](https://www.browserstack.com/)|Automate 1 year plan|Developing Tools|
 |[Freshpoint](https://)|Growth Plan|Marketing & APIs|
 |[blackfire.io](https://)|Profiler Subscription|Security & Analytics|
 |[Neve’s](https://themeisle.com/github-students/)|1 year agency wordpress theme|Design & APIs|
@@ -166,7 +166,7 @@
 |[LambdaTEST](https://www.lambdatest.com/pricing)|1 year Live Plan|Test|
 |[Sqlsmash](https://sqlsmash.com/buy.html)|Standard Plan|Developing Tools|
 |[Wisej](https://)|Premium plus plan|Infrastructure|
-|[AccessLint](https://)|Access public and Private repos|Repos|
+|[AccessLint](https://github.com/AccessLint)|Access public and Private repos|Repos|
 |[appfigures](https://appfigures.com/landing/github-student)|1 year premium plan|marketing|
 |[logDNA](https://)|50GB/monthly 1 year plan|Security & Analytics|
 |[Sofy](https://)|6 Months premium plan|Tools & Mobile|
