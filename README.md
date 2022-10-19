@@ -207,8 +207,7 @@
 |[Mubi](https://mubi.com/promos/student-india)|90 days of hand-picked films for free. Only for students.| Cinema Streaming |
 |[VOXI for Students](https://www.voxi.co.uk/acquisition/students)|Students get first month free.|Cellular Data|
 |[Amazon](https://www.primevideo.com/)|Student concession on prime video|entertainment|
-|[UniDays](https://www.myunidays.com/IN)|20% Student Discount|Register and get Rs. 500 Gift Voucher|
-
+|[UNiDAYS](https://www.myunidays.com/IN/en-IN/content/about)|Get up to 50% Off - only for students | tech, fashion, learning and more every time you shop|
 <!--END_SECTION:cp-->
 
 
