@@ -133,7 +133,7 @@
 |[Working Copy](https://)|Pro Subscription|Developer Tools & Mobile|
 |[CryptoLens](https://)|10 Licenses|Infrastructure|
 |[Jaamly](https://)|6 Months startup plan|Marketing|
-|[BrowserStack](https://)|Automate 1 year plan|Developing Tools|
+|[BrowserStack](https://www.browserstack.com/pricing?product=automate&utm_source=google&utm_medium=cpc&utm_campaign=Search-Brand-India&utm_adgroup=BrowserStack-Alpha&utm_keyword=browser%20stack&utm_matchtype=e)|Automate 1 year plan|Developing Tools|
 |[Freshpoint](https://)|Growth Plan|Marketing & APIs|
 |[blackfire.io](https://)|Profiler Subscription|Security & Analytics|
 |[Neve’s](https://themeisle.com/github-students/)|1 year agency wordpress theme|Design & APIs|
