@@ -21,7 +21,7 @@
 ---
 
 ## Offers List Is Here 👇👇
-<details><summary> Click Here To Open List</summary>
+<details><summary> Click Here To View List</summary>
 <p>
 
 ###### CTRL/Command + F to Find anything  
@@ -241,12 +241,12 @@
 # What contributions are accepted?
 
 1. **Any spelling errors in the list of offers**
-2. **Adding More Offers Which are not Present**
-3. **Adding Extra Genuine Information About the offer**
-4. **Fixing Broken Links**
-5. **If Any Offer is Not Working Anymore Mark It**
-6. **If Link is not working, Add it**
-7. **Mention Duration Of The Offer**
+2. **Adding more offers which are not present**
+3. **Adding genuine information about any listed offers**
+4. **Fixing any broken links**
+5. **If any offer links are not working anymore, mark it for renewal**
+6. **If link is not working update it**
+7. **Mention the duration of the offer**
 
 ---
 
