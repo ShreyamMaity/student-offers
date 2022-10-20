@@ -113,7 +113,7 @@
 |[Customerly](https://)|6 months pro plan|Infrastructure & Marketing|
 |[SQLGATE](https://www.sqlgate.com/pricing/subscription?language=en)|1 Years Plan Subscription|Tools|
 |[Vaadin](https://vaadin.com/student-program)|Pro Subscription|Infrastructure & APIs|
-|[Restyled](https://)|Private Repositories|Tools|
+|[Restyled](https://github.com)|Private Repositories|Tools|
 |[Deepscan](https://deepscan.io/github-student-pack)|6 Months premium plan|Tools|
 |[Weglot](https://)|1 year|Tools & Infrastructure & APIS|
 |[CodeScene](https://codescene.com/github-students)|Private Github repositories|Security & Analytics|
