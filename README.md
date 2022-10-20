@@ -308,16 +308,16 @@
 # FAQ?
 
 
-- **I am just a visitor , Should I Contribute?**
+- **I am just a visitor, Should I Contribute?**
   - Definitely , If you are visiting the link and found any information is wrong , create a pull request fixing it
-- **I'm just a beginner , how difficult is this?**
-  - This is completely beginner friendly if you follow the instructions properly
-- **I don't want to contribute but i've found something wrong in the list.What should i do?**
-  - Just Create an Issue Request and Any of the Contributors or Owner will fix it.
+- **I'm just a beginner, how difficult is this?**
+  - This is completely beginner-friendly if you follow the given instructions properly.
+- **I don't want to contribute but I found something wrong in the given list. What should I do?**
+  - Just create an Issue Request and any of the contributors or owners will fix the errors.
 - **Why shoud I contribute?**
-  - For helping yourself and others in future ;)
-- **Is Hacktoberfest 2022 accepting this Repository?**
-  - Yes
+  - Contributing to open source helps you improve your own skills and also helps others ;)
+- **Is Hacktoberfest 2022 accepting this repository?**
+  - Yes!
 - **How can I be in the contributors list?**
 	- Create a pull request, wait for it to get accepted, and you'll be listed automatically!
 
