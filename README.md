@@ -316,10 +316,10 @@
   - Just Create an Issue Request and Any of the Contributors or Owner will fix it.
 - **Why shoud I contribute?**
   - For helping yourself and others in future ;)
-- **Is Hacktoberfest 2021 accepting this Repository?**
+- **Is Hacktoberfest 2022 accepting this Repository?**
   - Yes
-- **How can i be in the contributors list?**
-	- create a pull requst and wait for it getting accepted, and you'll be listed automatically
+- **How can I be in the contributors list?**
+	- Create a pull request, wait for it to get accepted, and you'll be listed automatically!
 
 
 
