@@ -5,7 +5,7 @@
 
 ---
 
-# <p align="center">Get FREE Student Offers List
+# <p align="center">Get FREE Student Offers List!
 <p align="center">
 <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v"/>
 <img src=https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.student-offers"/>
@@ -222,7 +222,7 @@
 - **This is a public database containing all Student Offers available now.**
 - **Beginner-friendly repository for starting your contribution journey.**
 - **Feel free to add more if I missed anything!**
-- **NEED CONTRIBUTORS FOR MAINTAINING THIS DATABASE!**  
+- **CONTRIBUTORS NEEDED FOR MAINTAINING THIS DATABASE!**  
   
 ---
 
@@ -238,9 +238,9 @@
 
 ---
 
-# What Contributions are accepted?
+# What contributions are accepted?
 
-1. **Any Typo In The List of Offers**
+1. **Any spelling errors in the list of offers**
 2. **Adding More Offers Which are not Present**
 3. **Adding Extra Genuine Information About the offer**
 4. **Fixing Broken Links**
