@@ -219,34 +219,34 @@
 
 # What is this ?
 
-- **This a public database of all Student Offers Available**
-- **Beginner friendly Repo For Starting Your Contribution Journey**
-- **Feel Free to add more if I missed anything**
-- **NEED CONTRIBUTORS FOR MAINTAINING THIS DATABASE**  
+- **This is a public database containing all Student Offers available now.**
+- **Beginner-friendly repository for starting your contribution journey.**
+- **Feel free to add more if I missed anything!**
+- **NEED CONTRIBUTORS FOR MAINTAINING THIS DATABASE!**  
   
 ---
 
-# How to Contribute?
+# How to contribute in this repository?
 
-1. **Add a Star to this Repository**
-2. **Fork The Repo**
-3. **`git clone` the Repo**
-4. **Open database.md from Database folder**
-5. **Add/Modify/Replace What you want**
-6. **Create A Pull Request**
-7. **Explain what You Have Done in description**
+1. **Add a Star to this repository.**
+2. **Fork the repo.**
+3. **`git clone` the repo.**
+4. **Open database.md from Database folder.**
+5. **Add/Modify/Replace data and files to contribute.**
+6. **Create your Pull Request!**
+7. **Explain what you have done in description.**
 
 ---
 
 # What Contributions are accepted?
 
 1. **Any Typo In The List of Offers**
-2. **Adding More Offers Which is not Present**
+2. **Adding More Offers Which are not Present**
 3. **Adding Extra Genuine Information About the offer**
 4. **Fixing Broken Links**
 5. **If Any Offer is Not Working Anymore Mark It**
-6. **If Link is not working, Adding it**
-7. **Mentioning Duration Of The Offer**
+6. **If Link is not working, Add it**
+7. **Mention Duration Of The Offer**
 
 ---
 
