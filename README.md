@@ -9,7 +9,7 @@
 <p align="center">
 <img src=https://badges.frapsoft.com/os/v2/open-source.svg?v"/>
 <img src=https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.student-offers"/>
-<img src=https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
 <img src="https://img.shields.io/github/license/ShreyamMaity/student-offers"/>
 <img src="https://img.shields.io/github/stars/ShreyamMaity/student-offers"/>
 <img src="https://img.shields.io/github/forks/ShreyamMaity/student-offers"/>
@@ -309,17 +309,17 @@
 
 
 - **I am just a visitor , Should I Contribute?**
-  - Definitely , If you are vising the link and found any information is wrong , create a pull request fixing it
+  - Definitely , If you are visiting the link and found any information is wrong , create a pull request fixing it
 - **I'm just a beginner , how difficult is this?**
-  - This is completly beginner friendly if you follow the instructions properly
+  - This is completely beginner friendly if you follow the instructions properly
 - **I don't want to contribute but i've found something wrong in the list.What should i do?**
-  - Just Create a Issue Requst and Any of the Contributors or Owner will fix it.
+  - Just Create an Issue Request and Any of the Contributors or Owner will fix it.
 - **Why shoud I contribute?**
   - For helping yourself and others in future ;)
-- **Is Hacktoberfest 2021 accpecting this Repository?**
+- **Is Hacktoberfest 2021 accepting this Repository?**
   - Yes
 - **How can i be in the contributors list?**
-	- create a pull requst and wait for it getting accpected, and you'll be listed automatically
+	- create a pull requst and wait for it getting accepted, and you'll be listed automatically
 
 
 
