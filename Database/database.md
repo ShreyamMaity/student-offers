@@ -179,3 +179,4 @@
 |[VOXI for Students](https://www.voxi.co.uk/acquisition/students)|Students get first month free.|Cellular Data|
 |[Amazon](https://www.primevideo.com/)|Student concession on prime video|entertainment|
 |[UNiDAYS](https://www.myunidays.com/IN/en-IN/content/about)|Get up to 50% Off - only for students | tech, fashion, learning and more every time you shop|
+|[Macpaw](https://macpaw.com/macpaw-student-discount?campaign=cmmx_search_sitelink_en&campaign=cmmx_search_brand_in_en&ci=16806056043&adgroupid=135530056059&adpos=&ck=cleanmymac%20discount&targetid=kwd-331823206928&match={if:p}&gnetwork=g&creative=591911619779&placement=&placecat=&accname=cmm&gclid=CjwKCAjw79iaBhAJEiwAPYwoCPikBA_zA5hEVpgUUyVjqLZnihdOCw1OfTYojxBtjJf2wcOTAGKP4RoCa4IQAvD_BwE)| Student offer upto 30% |CleanMyMAc X Plan|
