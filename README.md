@@ -87,7 +87,7 @@
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
 |[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
 |[Gliffy](https://help.gliffy.com/online/Content/GliffyOnline/free_for_students.htm)|Free account for active students|Diagram Drawing|
-|[Portfolio Box Pro](https://)|Student License|Portfolio creation|
+|[Portfolio Box Pro](https://https://www.portfoliobox.net/students)|Student License|Portfolio creation|
 |[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://www.tableau.com/academic/students)|1 Year free Student License|Data Analysing|
 |[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
@@ -114,7 +114,7 @@
 |[Axure education](https://www.axure.com/edu)|Student License|Prototype creation software|
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
 |[Bhphotovideo](https://www.bhphotovideo.com/find/eduAdvantage.jsp)|Student License|Shopping|
-|[Flatiron School](https://)|1 month Subscription|Learn|
+|[Flatiron School](https://flatironschool.com/)|1 month Subscription|Learn|
 |[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://popsql.com/github-students)|Premium Plan|Developers Tools|
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
