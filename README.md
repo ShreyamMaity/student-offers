@@ -214,6 +214,7 @@
 |[Flipkart](https://www.flipkart.com/students-enrollment-store?)|Student concession on flipkart plus|Shopping|
 |[Udemy](https://googie.coupons/udemy/?loc=9061866&pos=&ad=430569585489&device=c&target=kwd-66803475385&ext=&camp=2036421541&group=70876059966&utm_medium=16772139466432396440&utm_source=16772139466432396440&utm_campaign=16772139466432396440&gclid=CjwKCAjw79iaBhAJEiwAPYwoCM5iqdWKVmKsuXzAMIZvdlI8y7nTHdvnNI7RePjU9jYwcPyCu-4VFRoC_XAQAvD_BwE?loc=9061866&pos=&ad=430569585489&device=c&target=kwd-66803475385&ext=&camp=2036421541&group=70876059966&utm_medium=16772139466432396440&utm_source=adu92&utm_campaign=16772139466432396440&gclid=CjwKCAjw79iaBhAJEiwAPYwoCM5iqdWKVmKsuXzAMIZvdlI8y7nTHdvnNI7RePjU9jYwcPyCu-4VFRoC_XAQAvD_BwE)|Student concession Udemy Courses|Education|
 |[Spotify](https://www.spotify.com/us/student/)|Student offer upto 50% on Spotify Premium|Entertainment|
+|[Booktopia](https://www.myunidays.com/AU/en-AU/partners/booktopia/view)|Student offer upto 10%|Education|
 <!--END_SECTION:cp-->
 
 
