@@ -50,7 +50,7 @@
 |[Go Rails](https://gorails.com/github-students)|12 months subcription – Video Lessons|Learn|
 |[Rhino3D](https://www.rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
 |[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering||
-|[Chaos](https://)|Student License|3D Work|
+|[Chaos](https://www.chaos.com/education/students)|Student License|3D Work|
 |[QT](https://www.qt.io/qt-educational-license)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
 |[cPanel](https://)|Educational License|cPanel for free but faculty only|
@@ -62,7 +62,7 @@
 |[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://www.tableau.com/academic/students)|1 Year free Student License|Data Analysing|
 |[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
-|[THINKFUL](https://)|1 Month Web Development|Learn|
+|[THINKFUL](https://www.thinkful.com/blog/github-adds-thinkful-to-student-developer-pack/)|1 Month Web Development|Learn|
 |[Invision App](https://https://www.invisionapp.com/)|Free while you are student|UI/UX Design|
 |[Basecamp account](https://basecamp.com/discounts)|Free account for teachers and students|Project management & team Collab|
 |[Amazon Prime Student (.com)](https://www.amazon.in/b?ie=UTF8&node=15307611031)|6 month Prime + prime videos(all region) + deals 7 discounts|Shopping|
@@ -81,65 +81,66 @@
 |[Squarespace](https://www.squarespace.com/coupons)|Discount and Free months|education|
 |[Students beans](https://www.studentbeans.com/student-discount/uk/all)|Membership ID|student ID for discounts|
 |[Themescale](https://)|Wordpress themes license for 1 year|Website|
-|[Hexagon Geospatail](https://)|Student License|Education|
+|[Hexagon Geospatail](https://hexagon.com/company/divisions/safety-infrastructure-geospatial/education-program)|Student License|Education|
 |[Axure education](https://www.axure.com/edu)|Student License|Prototype creation software|
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
 |[Bhphotovideo](https://www.bhphotovideo.com/find/eduAdvantage.jsp)|Student License|Shopping|
 |[Flatiron School](https://)|1 month Subscription|Learn|
 |[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
-|[POPSQL](https://)|Premium Plan|Developers Tools|
+|[POPSQL](https://popsql.com/github-students)|Premium Plan|Developers Tools|
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
-|[Adafruit]((https://www.adafruit.com/product/3792)/)|1 year subscription|Internet of Things & Infrastructure APIs|
-|[Dashlane](https://)|6 Months premium plan|Productivity|
-|[Travis CI](https://)|Open Source|Developer Tools & Internet of Things|
+|[Adafruit](https://www.adafruit.com/github-students)|1 year subscription|Internet of Things & Infrastructure APIs|
+|[Dashlane](https://www.dashlane.com/github-students)|6 Months premium plan|Productivity|
+|[Travis CI](https://education.travis-ci.com/)|Open Source|Developer Tools & Internet of Things|
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
 |[Covalence](https://)|1 month Subscription|Learn|
 |[deepsource](https://)|Pro Subscription|Tools|
-|[TOWER](https://www.git-tower.com/students/windows)|Pro Subscription|Developer Tools|
-|[Gitpod](https://)|6 months personal plan subscription|Developer Tools & Learn|
+|[TOWER](https://)|Pro Subscription|Developer Tools|
+|[Gitpod](https://gitpod.io/plans/)|6 months personal plan subscription|Developer Tools & Learn|
 |[Sentry](https://)|500,000 events/month with unlimited projects|Infrastructure|
-|[XOJO](https://)|Desktop License|Design & Developer Tools|
+|[XOJO](https://www.xojo.com/githubstudent/)|Desktop License|Design & Developer Tools|
 |[Working Copy](https://)|Pro Subscription|Developer Tools & Mobile|
 |[CryptoLens](https://)|10 Licenses|Infrastructure|
 |[Jaamly](https://)|6 Months startup plan|Marketing|
-|[BrowserStack](https://)|Automate 1 year plan|Developing Tools|
+|[BrowserStack](https://www.browserstack.com/)|Automate 1 year plan|Developing Tools|
 |[Freshpoint](https://)|Growth Plan|Marketing & APIs|
 |[blackfire.io](https://)|Profiler Subscription|Security & Analytics|
-|[Neve’s](https://)|1 year agency wordpress theme|Design & APIs|
+|[Neve’s](https://themeisle.com/github-students/)|1 year agency wordpress theme|Design & APIs|
 |[Codecov](https://)|Public & Private repositories|Developer Tools|
 |[CART](https://)|2 Years Premium Plan|Infrastructure|
 |[Customerly](https://)|6 months pro plan|Infrastructure & Marketing|
 |[SQLGATE](https://www.sqlgate.com/pricing/subscription?language=en)|1 Years Plan Subscription|Tools|
-|[Vaadin](https://)|Pro Subscription|Infrastructure & APIs|
+|[Vaadin](https://vaadin.com/student-program)|Pro Subscription|Infrastructure & APIs|
 |[Restyled](https://)|Private Repositories|Tools|
-|[Deepscan](https://)|6 Months premium plan|Tools|
+|[Deepscan](https://deepscan.io/github-student-pack)|6 Months premium plan|Tools|
 |[Weglot](https://)|1 year|Tools & Infrastructure & APIS|
-|[CodeScene](https://)|Private Github repositories|Security & Analytics|
+|[CodeScene](https://codescene.com/github-students)|Private Github repositories|Security & Analytics|
 |[Simple Analytics](https://)|1 year subscription|Infrastructure & Marketing|
 |[USE together](https://)|1 year subscription|ProductiveTools|
 |[Algolia](https://)|1 year subscription|Infrastructure|
-|[Better Code Hub](https://)|Individual License & Access private repos|Developing Tools|
-|[Daily BOT](https://)|6 Months Business|Productivity|
+|[Better Code Hub](https://bettercodehub.com/github-student-developer-pack)|Individual License & Access private repos|Developing Tools|
+|[Daily BOT](https://www.dailybot.com/pricing)|6 Months Business|Productivity|
 |[POEditor](https://)|1 year subscription|Developer Tools & Infrastructure|
-|[Honeybadget.io](https://)|1 year subscription|Security & Analytics|
+|[Honeybadger.io](https://www.honeybadger.io/github-students/)|1 year subscription|Security & Analytics|
 |[Kaltura](https://)|\$10K/year Credits|Infrastructure|
 |[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
-|[Pushbots](https://)|6 months Subscription|Infrastructure|
+|[Pushbots](https://pushbots.com/for/education/)|6 months Subscription|Infrastructure|
 |[LingoHub](https://)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
 |[Sider](https://)|Standard|Tools|
 |[Blockchair](https://)|100,000 free requests|Infrastructure|
 |[datree.io](https://)|Pro Subscription|Tools|
 |[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
-|[baremetrics](https://)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
-|[LambdaTEST](https://)|1 year Live Plan|Test|
+|[baremetrics](https://baremetrics.com/github-students)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
+|[LambdaTEST](https://www.lambdatest.com/github-students)|1 year Live Plan|Test|
+|[LambdaTEST](https://www.lambdatest.com/pricing)|1 year Live Plan|Test|
 |[Sqlsmash](https://sqlsmash.com/buy.html)|Standard Plan|Developing Tools|
 |[Wisej](https://)|Premium plus plan|Infrastructure|
-|[AccessLint](https://)|Access public and Private repos|Repos|
+|[AccessLint](https://github.com/AccessLint)|Access public and Private repos|Repos|
 |[appfigures](https://appfigures.com/landing/github-student)|1 year premium plan|marketing|
-|[logDNA](https://)|50GB/monthly 1 year plan|Security & Analytics|
-|[Sofy](https://)|6 Months premium plan|Tools & Mobile|
+|[logDNA](https://www.mezmo.com/blog/get-a-free-logdna-account-in-the-github-student-developer-pack)|50GB/monthly 1 year plan|Security & Analytics|
+|[Sofy](httphttps://www.mezmo.com/blog/get-a-free-logdna-account-in-the-github-student-developer-packs://)|6 Months premium plan|Tools & Mobile|
 |[Transloadit](https://transloadit.com/github-students/)|10 GB Startup Plan|Infrastructure & Tools|
 |[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
 |[Coveralls](https://coveralls.io/github-students)|Unlimited private repos access|Tools|
@@ -174,3 +175,7 @@
 |[Dell](https://www.dell.com/en-in/lp/student-laptop-discount#Featured-Student-Laptops)|Provide discounts on laptops and free delivery for students|Products|
 |[Lenovo Student Store](https://www.lenovo.com/in/en/d/students-offer/)| Special discounts for College and School Students |Products|
 |[Air India](https://www.airindia.in/student-concession.htm)|Student concession on flights|Travel|
+|[Mubi](https://mubi.com/promos/student-india)|90 days of hand-picked films for free. Only for students.| Cinema Streaming |
+|[VOXI for Students](https://www.voxi.co.uk/acquisition/students)|Students get first month free.|Cellular Data|
+|[Amazon](https://www.primevideo.com/)|Student concession on prime video|entertainment|
+|[UNiDAYS](https://www.myunidays.com/IN/en-IN/content/about)|Get up to 50% Off - only for students | tech, fashion, learning and more every time you shop|
