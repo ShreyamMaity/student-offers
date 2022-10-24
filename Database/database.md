@@ -124,7 +124,7 @@
 |[Daily BOT](https://www.dailybot.com/pricing)|6 Months Business|Productivity|
 |[POEditor](https://)|1 year subscription|Developer Tools & Infrastructure|
 |[Honeybadger.io](https://www.honeybadger.io/github-students/)|1 year subscription|Security & Analytics|
-|[Kaltura](https://)|\$10K/year Credits|Infrastructure|
+|[Kaltura](https://corp.kaltura.com/)|\$10K/year Credits|Infrastructure|
 |[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
 |[Pushbots](https://pushbots.com/for/education/)|6 months Subscription|Infrastructure|
 |[LingoHub](https://)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
