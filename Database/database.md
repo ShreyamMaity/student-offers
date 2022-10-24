@@ -58,7 +58,7 @@
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
 |[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
 |[Gliffy](https://help.gliffy.com/online/Content/GliffyOnline/free_for_students.htm)|Free account for active students|Diagram Drawing|
-|[Portfolio Box Pro](https://)|Student License|Portfolio creation|
+|[Portfolio Box Pro](https://https://www.portfoliobox.net/students)|Student License|Portfolio creation|
 |[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://www.tableau.com/academic/students)|1 Year free Student License|Data Analysing|
 |[Tableau Prep Builder](https://)|1 Year Student License|Data Cleaner For Data Analysis|
@@ -85,7 +85,7 @@
 |[Axure education](https://www.axure.com/edu)|Student License|Prototype creation software|
 |[replit](https://replit.com/site/github-students)|3 months Hackers Plan|Developers & Learn|
 |[Bhphotovideo](https://www.bhphotovideo.com/find/eduAdvantage.jsp)|Student License|Shopping|
-|[Flatiron School](https://)|1 month Subscription|Learn|
+|[Flatiron School](https://flatironschool.com/)|1 month Subscription|Learn|
 |[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://popsql.com/github-students)|Premium Plan|Developers Tools|
 |[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
@@ -179,3 +179,7 @@
 |[VOXI for Students](https://www.voxi.co.uk/acquisition/students)|Students get first month free.|Cellular Data|
 |[Amazon](https://www.primevideo.com/)|Student concession on prime video|entertainment|
 |[UNiDAYS](https://www.myunidays.com/IN/en-IN/content/about)|Get up to 50% Off - only for students | tech, fashion, learning and more every time you shop|
+|[Macpaw](https://macpaw.com/macpaw-student-discount?campaign=cmmx_search_sitelink_en&campaign=cmmx_search_brand_in_en&ci=16806056043&adgroupid=135530056059&adpos=&ck=cleanmymac%20discount&targetid=kwd-331823206928&match={if:p}&gnetwork=g&creative=591911619779&placement=&placecat=&accname=cmm&gclid=CjwKCAjw79iaBhAJEiwAPYwoCPikBA_zA5hEVpgUUyVjqLZnihdOCw1OfTYojxBtjJf2wcOTAGKP4RoCa4IQAvD_BwE)| Student offer upto 30% |CleanMyMAc X Plan|
+|[Samsung](https://www.samsung.com/in/microsite/student-advantage/)|Get up to 10% off on Samsung products with Student Advantage Program |Products|
+|[HP](https://www.hp.com/in-en/shop/students/about-the-program)| Discounts, cashback, free products and other offers for Students |Products|
+|[Flipkart](https://www.flipkart.com/students-enrollment-store?)|Student concession on flipkart plus|Shopping|
