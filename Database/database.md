@@ -129,14 +129,14 @@
 |[Pushbots](https://pushbots.com/for/education/)|6 months Subscription|Infrastructure|
 |[LingoHub](https://)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
 |[Sider](https://)|Standard|Tools|
-|[Blockchair](https://)|100,000 free requests|Infrastructure|
+|[Blockchair](https://blockchair.com/)|100,000 free requests|Infrastructure|
 |[datree.io](https://)|Pro Subscription|Tools|
 |[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
 |[baremetrics](https://baremetrics.com/github-students)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
 |[LambdaTEST](https://www.lambdatest.com/github-students)|1 year Live Plan|Test|
 |[LambdaTEST](https://www.lambdatest.com/pricing)|1 year Live Plan|Test|
 |[Sqlsmash](https://sqlsmash.com/buy.html)|Standard Plan|Developing Tools|
-|[Wisej](https://)|Premium plus plan|Infrastructure|
+|[Wisej](https://wisej.com/)|Premium plus plan|Infrastructure|
 |[AccessLint](https://github.com/AccessLint)|Access public and Private repos|Repos|
 |[appfigures](https://appfigures.com/landing/github-student)|1 year premium plan|marketing|
 |[logDNA](https://www.mezmo.com/blog/get-a-free-logdna-account-in-the-github-student-developer-pack)|50GB/monthly 1 year plan|Security & Analytics|
