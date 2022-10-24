@@ -47,7 +47,7 @@
 |[Educative](https://)|6 Months Validity with 60+ courses|Learn|
 |[Github](https://)|Github pro package|Developer|
 |[Microsoft Azure](https://azure.microsoft.com/en-in/free/students/)|25+ microsoft cloud services + \$100.00 in Azure credit|Cloud|
-|[Unity](https://)|Lifetime|Game Development|
+|[Unity](https://unity.com/products/unity-student)|Lifetime|Game Development|
 |[Jetbrains](https://www.jetbrains.com/education/)|Annual Subscription|Developer|
 |[Digital Ocean](https://)|\$50 Credit|Cloud|
 |[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
