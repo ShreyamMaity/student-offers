@@ -145,7 +145,6 @@
 |[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
 |[Coveralls](https://coveralls.io/github-students)|Unlimited private repos access|Tools|
 |[Yakindu](https://www.itemis.com/en/yakindu/state-machine/yakindu-universities/)|12 months premium|Learn|
-|[Storyscript](https://)|12 months business|Infrastructure|
 |[Crowdin](https://crowdin.com/page/github-students)|12 months premium|Tools, Infrastructure , Productivity|
 |[Transifex](https://www.transifex.com/pricing/)|6 Months premium|Infrastructure & Tools|
 |[Minecraft Educational License](https://education.minecraft.net/en-us/licensing)|Educational License of Minecraft|Game|
