@@ -128,7 +128,7 @@
 |[deepsource](https://)|Pro Subscription|Tools|
 |[TOWER](https://)|Pro Subscription|Developer Tools|
 |[Gitpod](https://gitpod.io/plans/)|6 months personal plan subscription|Developer Tools & Learn|
-|[Sentry](https://)|500,000 events/month with unlimited projects|Infrastructure|
+|[Sentry](https://sentry.io/for/education/)|Unlimited team members and 10GB attachments per month for free|Crash Reporting|
 |[XOJO](https://www.xojo.com/githubstudent/)|Desktop License|Design & Developer Tools|
 |[Working Copy](https://)|Pro Subscription|Developer Tools & Mobile|
 |[CryptoLens](https://)|10 Licenses|Infrastructure|
