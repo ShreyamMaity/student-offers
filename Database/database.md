@@ -76,7 +76,7 @@
 |[DNS simple](https://dnsimple.com/signup)|DNS Simple student license|DNS data observation|
 |[Orchestrate.io](https://)|Free developer account|database service|
 |[Send grid](https://)|Student License|STMP mail system|
-|[Bitnami](https://bitnami.com/)|Student License free|pre-packaged images for automated setup of popular server software on Windows, Mac OS|
+|[Bitnami](https://)|Student License free|pre-packaged images for automated setup of popular server software on Windows, Mac OS|
 |[Crowflower](https://)|Student License|AI ML training software|
 |[Squarespace](https://www.squarespace.com/coupons)|Discount and Free months|education|
 |[Students beans](https://www.studentbeans.com/student-discount/uk/all)|Membership ID|student ID for discounts|
@@ -88,9 +88,9 @@
 |[Flatiron School](https://flatironschool.com/)|1 month Subscription|Learn|
 |[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://popsql.com/github-students)|Premium Plan|Developers Tools|
-|[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
+|[DATADOG](https://www.datadoghq.com/)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
-|[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
+|[Stripe](https://stripe.com/en-in)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
 |[Adafruit](https://www.adafruit.com/github-students)|1 year subscription|Internet of Things & Infrastructure APIs|
 |[Dashlane](https://www.dashlane.com/github-students)|6 Months premium plan|Productivity|
 |[Travis CI](https://education.travis-ci.com/)|Open Source|Developer Tools & Internet of Things|
