@@ -105,7 +105,7 @@
 |[DNS simple](https://dnsimple.com/signup)|DNS Simple student license|DNS data observation|
 |[Orchestrate.io](https://)|Free developer account|database service|
 |[Send grid](https://)|Student License|STMP mail system|
-|[Bitnami](https://)|Student License free|pre-packaged images for automated setup of popular server software on Windows, Mac OS|
+|[Bitnami](https://bitnami.com/)|Student License free|pre-packaged images for automated setup of popular server software on Windows, Mac OS|
 |[Crowflower](https://)|Student License|AI ML training software|
 |[Squarespace](https://www.squarespace.com/coupons)|Discount and Free months|education|
 |[Students beans](https://www.studentbeans.com/student-discount/uk/all)|Membership ID|student ID for discounts|
@@ -217,6 +217,7 @@
 |[Booktopia](https://www.myunidays.com/AU/en-AU/partners/booktopia/view)|Student offer upto 10%|Education|
 |[Adobe](https://gateway.studentbeans.com/us/offer/89f9c9b4-d223-41b1-bf58-48f66d73362c?brand=adobe&category=tech-mobile&utm_source=affiliate&utm_medium=rakuten&utm_campaign=3781960:BrokeScholar&utm_content=3&utm_term=usnetwork&ranMID=44445&ranEAID=*LjTQqvRo5A&ranSiteID=.LjTQqvRo5A-CmG1u971Dcl4NiZHqsZEpA)|Student offer upto 65%|Education|
 |[Lenovo](https://lenovo.studentbeans.com/)|Student offer upto 20%|Product|
+
 <!--END_SECTION:cp-->
 
 
