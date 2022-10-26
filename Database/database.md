@@ -10,7 +10,7 @@
 |[eSurveyCreator](https://www.surveyhero.com/esurveycreator-is-now-surveyhero)|Student License while you are student|Survey creation and distribution app|
 |[LucidChart](https://www.lucidchart.com/pages/)|Lifetime free suscription|Flowchart service|
 |[Prezi](https://prezi.com/)|Lifetime Subscription|Video Conferencing App|
-|[BlackBerry QNX](https://blackberry.qnx.com/en)|LIfetime Subscription|Education|
+|[BlackBerry QNX](https://blackberry.qnx.com/en)|Lifetime Subscription|Education|
 |[Namecheap.com](https://nc.me/)|1 years .me TLD domain & 1 year SSL Certificate|Domains|
 |[Name.com](https://www.name.com/partner/github-students)|One year domain and Advance Security SSL Sertificate|Domains|
 |[AWS Educate](https://aws.amazon.com/education/awseducate/)|Starter Account worth \$100.00|Cloud|
