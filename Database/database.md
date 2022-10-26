@@ -102,7 +102,7 @@
 |[Sentry](https://sentry.io/for/education/)|Unlimited team members and 10GB attachments per month for free|Crash Reporting|
 |[XOJO](https://www.xojo.com/githubstudent/)|Desktop License|Design & Developer Tools|
 |[Working Copy](https://)|Pro Subscription|Developer Tools & Mobile|
-|[CryptoLens](https://)|10 Licenses|Infrastructure|
+|[CryptoLens](https://app.cryptolens.io/user/githubstudent)|Create up to 10 licenses and any number of end users for free|Software Licensing|
 |[Jaamly](https://)|6 Months startup plan|Marketing|
 |[BrowserStack](https://www.browserstack.com/)|Automate 1 year plan|Developing Tools|
 |[Freshpoint](https://)|Growth Plan|Marketing & APIs|
