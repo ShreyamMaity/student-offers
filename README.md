@@ -59,7 +59,7 @@
 |[termius](https://termius.com/education)|Premium Plan|Mobile|
 |[DataCamp](https://www.datacamp.com/pricing/student)|3 months plan|Learn|
 |[One Month](https://onemonth.com/github/students)|30 days subsription|Learn|
-|[Education Host](https://github-students.educationhost.co.uk/)|1 Years Plan + Upgrade plan discount|Cloud|
+|[Education Host](https://github-students.educationhost.co.uk/)|1 Year Plan + Upgrade plan discount|Cloud|
 |[Interview Cake](https://www.interviewcake.com/github-students)|3 weeks Plan|Learn|
 |[MongoDB](https://www.mongodb.com/students)|\$200 credit + Courses + Certification|Infrastructure & APIs|
 |[GitHub Campus Experts](https://education.github.com/experts)|Complete Course|Learn|
@@ -71,7 +71,7 @@
 |[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
 |[ATOM](https://atomlearning.co.uk/pricing)|Annual Subscription|Tools|
 |[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit)|6 months Subscription|Internet of Things & Infrastructure|
-|[Typeform](https://product.typeform.com/github/)|1 years Subscription|Design &  Marketing|
+|[Typeform](https://product.typeform.com/github/)|1 year Subscription|Design &  Marketing|
 |[netwise.](https://www.netwise.co.uk/students/)|1 years Subscription|Cloud & Internet of Things|
 |[HazeOver](https://hazeover.com/)|Lifetime|Productivity|
 |[ICONS8](https://icons8.com/github-students)|3 Months unlimited Subscription|Design|
