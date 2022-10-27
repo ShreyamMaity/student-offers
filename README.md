@@ -217,6 +217,7 @@
 |[Adobe](https://gateway.studentbeans.com/us/offer/89f9c9b4-d223-41b1-bf58-48f66d73362c?brand=adobe&category=tech-mobile&utm_source=affiliate&utm_medium=rakuten&utm_campaign=3781960:BrokeScholar&utm_content=3&utm_term=usnetwork&ranMID=44445&ranEAID=*LjTQqvRo5A&ranSiteID=.LjTQqvRo5A-CmG1u971Dcl4NiZHqsZEpA)|Student offer upto 65%|Education|
 |[Lenovo](https://lenovo.studentbeans.com/)|Student offer upto 20%|Product|
 |[Netlify](https://www.netlify.com/)|FREE server for website hosting|Web Development|
+|[Printful](https://www.printful.com/student-deals)|Free shipping on custom printed products|Product|
 
 <!--END_SECTION:cp-->
 
