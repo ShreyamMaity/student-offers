@@ -63,16 +63,16 @@
 |[Interview Cake](https://www.interviewcake.com/github-students)|3 weeks Plan|Learn|
 |[MongoDB](https://www.mongodb.com/students)|\$200 credit + Courses + Certification|Infrastructure & APIs|
 |[GitHub Campus Experts](https://education.github.com/experts)|Complete Course|Learn|
-|[iconscout](https://iconscout.com/)|1 years Subscription + 60 Premiums icons|Design|
+|[iconscout](https://iconscout.com/)|1 year Subscription + 60 Premiums icons|Design|
 |[twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)|\$50 credit + APIs|Infrastructure & APIs|
 |[testmail.app](https://testmail.app/)|Essential plan|Developing Tools|
 |[Polypane](https://polypane.app/github-students/)|1 year subscription|Design|
 |[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
-|[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
+|[next.tech](https://next.tech/)|1 year Subscription|Developing & Learn|
 |[ATOM](https://atomlearning.co.uk/pricing)|Annual Subscription|Tools|
 |[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 year Subscription|Design &  Marketing|
-|[netwise.](https://www.netwise.co.uk/students/)|1 years Subscription|Cloud & Internet of Things|
+|[netwise.](https://www.netwise.co.uk/students/)|1 year Subscription|Cloud & Internet of Things|
 |[HazeOver](https://hazeover.com/)|Lifetime|Productivity|
 |[ICONS8](https://icons8.com/github-students)|3 Months unlimited Subscription|Design|
 |[Mailgun](https://www.mailgun.com/github-students/)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
