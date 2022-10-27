@@ -151,7 +151,7 @@
 |[Algolia](https://)|1 year subscription|Infrastructure|
 |[Better Code Hub](https://bettercodehub.com/github-student-developer-pack)|Individual License & Access private repos|Developing Tools|
 |[Daily BOT](https://www.dailybot.com/pricing)|6 Months Business|Productivity|
-|[POEditor](https://)|1 year subscription|Developer Tools & Infrastructure|
+|[POEditor](https://poeditor.com/blog/translation-localization-educational-projects/)|1 year subscription|Developer Tools & Infrastructure|
 |[Honeybadger.io](https://www.honeybadger.io/github-students/)|1 year subscription|Security & Analytics|
 |[Kaltura](https://corp.kaltura.com/)|\$10K/year Credits|Infrastructure|
 |[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
