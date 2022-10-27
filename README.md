@@ -49,7 +49,7 @@
 |[Unity](https://unity.com/products/unity-student)|Lifetime|Game Development|
 |[Jetbrains](https://www.jetbrains.com/education/)|Annual Subscription|Developer|
 |[Digital Ocean](https://www.digitalocean.com/github-students/)|\$50 Credit|Cloud|
-|[Bootstrap Studio](https://bootstrapstudio.io/)|Studio Licence|Design concept|
+|[Bootstrap Studio](https://bootstrapstudio.io/)|Studio License|Design concept|
 |[Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)|6 Months Validity|Learn|
 |[Heroku](https://www.heroku.com/students)|Hobby Dyno|Cloud|
 |[.tech Domains](https://get.tech/github-student-developer-pack)|.tech domain 1 year validity + 2 emails + 100 MB storage|Domains|
