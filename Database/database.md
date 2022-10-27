@@ -131,7 +131,7 @@
 |[Sider](https://)|Standard|Tools|
 |[Blockchair](https://blockchair.com/)|100,000 free requests|Infrastructure|
 |[Datree:Combat misconfigurations](https://www.datree.io/))|Pro Subscription|Tools|
-|[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
+|[EverSQL](https://www.eversql.com/github-students/)|6 months Subscription|Tools|
 |[baremetrics](https://baremetrics.com/github-students)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
 |[LambdaTEST](https://www.lambdatest.com/github-students)|1 year Live Plan|Test|
 |[LambdaTEST](https://www.lambdatest.com/pricing)|1 year Live Plan|Test|
