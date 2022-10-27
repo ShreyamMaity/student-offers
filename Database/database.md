@@ -98,7 +98,7 @@
 |[Covalence](https://)|1 month Subscription|Learn|
 |[deepsource](https://)|Pro Subscription|Tools|
 |[TOWER](https://www.git-tower.com/students/windows)|Pro Subscription|Developer Tools|
-|[Gitpod](https://)|6 months personal plan subscription|Developer Tools & Learn|
+|[Gitpod](https://www.gitpod.io/pricing)|6 months personal plan subscription|Developer Tools & Learn|
 |[Sentry](https://)|500,000 events/month with unlimited projects|Infrastructure|
 |[XOJO](https://)|Desktop License|Design & Developer Tools|
 |[Working Copy](https://)|Pro Subscription|Developer Tools & Mobile|
@@ -148,7 +148,7 @@
 |[Crowdin](https://crowdin.com/page/github-students)|12 months premium|Tools, Infrastructure , Productivity|
 |[Transifex](https://www.transifex.com/pricing/)|6 Months premium|Infrastructure & Tools|
 |[Minecraft Educational License](https://education.minecraft.net/en-us/licensing)|Educational License of Minecraft|Game|
-|[Udemy Coupons for Music Online Courses](https://udemy.com)|Learn Rs 700 at Udemy|Courses|
+|[Udemy Coupons for Music Online Courses]([https://udemy.com)|Learn Rs 700 at Udemy|Courses|
 |[Testbook Offer for Visa Cards](https://testbook.com/offers/5c6d38b3fdb8bb27ca727f62)|Up to 60% OFF + 15% OFF on Testbook Pass|Tools & Mobile|
 |[Clean My Mac](https://macpaw.com/store/cleanmymac)|30% off on lifetime edition and annual plans|Tools & PC|
 |[SpiceJet](https://corporate.spicejet.com/studentdiscountlanding.aspx)|SpiceJet will provide up to 10% discount on the base fare on direct domestic ﬂights|
