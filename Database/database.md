@@ -34,7 +34,7 @@
 |[Interview Cake](https://www.interviewcake.com/github-students)|3 weeks Plan|Learn|
 |[MongoDB](https://www.mongodb.com/students)|\$200 credit + Courses + Certification|Infrastructure & APIs|
 |[GitHub Campus Experts](https://education.github.com/experts)|Complete Course|Learn|
-|[iconscout](https://iconscout.com/)|1 years Subscription + 60 Premiums icons|Design|
+|[iconscout](https://iconscout.com/)|1 year Subscription + 60 Premiums icons|Design|
 |[twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)|\$50 credit + APIs|Infrastructure & APIs|
 |[testmail.app](https://testmail.app/)|Essential plan|Developing Tools|
 |[Polypane](https://polypane.app/github-students/)|1 year subscription|Design|
