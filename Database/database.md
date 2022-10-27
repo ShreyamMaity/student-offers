@@ -39,7 +39,7 @@
 |[testmail.app](https://testmail.app/)|Essential plan|Developing Tools|
 |[Polypane](https://polypane.app/github-students/)|1 year subscription|Design|
 |[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
-|[next.tech](https://next.tech/)|1 years Subscription|Developing & Learn|
+|[next.tech](https://next.tech/)|1 year Subscription|Developing & Learn|
 |[ATOM](https://atomlearning.co.uk/pricing)|Annual Subscription|Tools|
 |[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 year Subscription|Design &  Marketing|
