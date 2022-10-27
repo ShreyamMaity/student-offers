@@ -30,7 +30,7 @@
 |[termius](https://termius.com/education)|Premium Plan|Mobile|
 |[DataCamp](https://www.datacamp.com/pricing/student)|3 months plan|Learn|
 |[One Month](https://onemonth.com/github/students)|30 days subsription|Learn|
-|[Education Host](https://github-students.educationhost.co.uk/)|1 Years Plan + Upgrade plan discount|Cloud|
+|[Education Host](https://github-students.educationhost.co.uk/)|1 Year Plan + Upgrade plan discount|Cloud|
 |[Interview Cake](https://www.interviewcake.com/github-students)|3 weeks Plan|Learn|
 |[MongoDB](https://www.mongodb.com/students)|\$200 credit + Courses + Certification|Infrastructure & APIs|
 |[GitHub Campus Experts](https://education.github.com/experts)|Complete Course|Learn|
