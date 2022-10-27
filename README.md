@@ -160,7 +160,7 @@
 |[Sider](https://)|Standard|Tools|
 |[Blockchair](https://blockchair.com/)|100,000 free requests|Infrastructure|
 |[Datree:Combat misconfigurations](https://www.datree.io/))|Pro Subscription|Tools|
-|[EverSQL](https://www.eversql.com/github-students/))|6 months Subscription|Tools|
+|[EverSQL](https://www.eversql.com/github-students/)|6 months Subscription|Tools|
 |[baremetrics](https://baremetrics.com/github-students)|Free Baremetrics to \$2.5K monthly recurring revenue|Marketing|
 |[LambdaTEST](https://www.lambdatest.com/github-students)|1 year Live Plan|Test|
 |[LambdaTEST](https://www.lambdatest.com/pricing)|1 year Live Plan|Test|
@@ -169,7 +169,7 @@
 |[AccessLint](https://github.com/AccessLint)|Access public and Private repos|Repos|
 |[appfigures](https://appfigures.com/landing/github-student)|1 year premium plan|marketing|
 |[logDNA](https://www.mezmo.com/blog/get-a-free-logdna-account-in-the-github-student-developer-pack)|50GB/monthly 1 year plan|Security & Analytics|
-|[Sofy](httphttps://www.mezmo.com/blog/get-a-free-logdna-account-in-the-github-student-developer-packs://)|6 Months premium plan|Tools & Mobile|
+|[Sofy](https://www.mezmo.com/blog/get-a-free-logdna-account-in-the-github-student-developer-packs://)|6 Months premium plan|Tools & Mobile|
 |[Transloadit](https://transloadit.com/github-students/)|10 GB Startup Plan|Infrastructure & Tools|
 |[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
 |[Coveralls](https://coveralls.io/github-students)|Unlimited private repos access|Tools|
