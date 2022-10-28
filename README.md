@@ -92,7 +92,7 @@
 |[Tableau Desktop](https://www.tableau.com/academic/students)|1 Year free Student License|Data Analysing|
 |[Tableau Prep Builder](https://www.tableau.com/products/prep)|1 Year Student License|Data Cleaner For Data Analysis|
 |[THINKFUL](https://www.thinkful.com/blog/github-adds-thinkful-to-student-developer-pack/)|1 Month Web Development|Learn|
-|[Invision App](https://https://www.invisionapp.com/)|Free while you are student|UI/UX Design|
+|[Invision App](https://support.invisionapp.com/hc/en-us)|Free while you are student|UI/UX Design|
 |[Basecamp account](https://basecamp.com/discounts)|Free account for teachers and students|Project management & team Collab|
 |[Amazon Prime Student (.com)](https://www.amazon.in/b?ie=UTF8&node=15307611031)|6 month Prime + prime videos(all region) + deals 7 discounts|Shopping|
 |[Unidays](https://www.myunidays.com/US/en-US)|Student Discounts|Shopping|
@@ -117,7 +117,7 @@
 |[Flatiron School](https://flatironschool.com/)|1 month Subscription|Learn|
 |[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://popsql.com/github-students)|Premium Plan|Developers Tools|
-|[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
+|[DATADOG](https://www.datadoghq.com/blog/datadog-github-student-developer-pack/)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
 |[Adafruit](https://www.adafruit.com/github-students)|1 year subscription|Internet of Things & Infrastructure APIs|
