@@ -53,7 +53,7 @@
 |[Chaos](https://www.chaos.com/education/students)|Student License|3D Work|
 |[QT](https://www.qt.io/qt-educational-license)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
-|[cPanel](https://)|Educational License|cPanel for free but faculty only|
+|[cPanel](https://support.cpanel.net/hc/en-us/articles/1500005429921-cPanel-Education-Licenses)|Educational License|cPanel for free but faculty only|
 |[Figma pro](https://www.figma.com/education/)|Figma Pro License|UI/UX Designing|
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
 |[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
