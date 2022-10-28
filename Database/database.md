@@ -127,7 +127,7 @@
 |[Kaltura](https://corp.kaltura.com/)|\$10K/year Credits|Infrastructure|
 |[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
 |[Pushbots](https://pushbots.com/for/education/)|6 months Subscription|Infrastructure|
-|[LingoHub](https://)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
+|[LingoHub](https://lingohub.com/github-students)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
 |[Sider](https://)|Standard|Tools|
 |[Blockchair](https://blockchair.com/)|100,000 free requests|Infrastructure|
 |[Datree:Combat misconfigurations](https://www.datree.io/)|Pro Subscription|Tools|
