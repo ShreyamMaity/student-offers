@@ -117,9 +117,9 @@
 |[Deepscan](https://deepscan.io/github-student-pack)|6 Months premium plan|Tools|
 |[Weglot](https://)|1 year|Tools & Infrastructure & APIS|
 |[CodeScene](https://codescene.com/github-students)|Private Github repositories|Security & Analytics|
-|[Simple Analytics](https://simpleanalytics.com/students)|1 year subscription|Infrastructure & Marketing|
+|[Simple Analytics](https://)|1 year subscription|Infrastructure & Marketing|
 |[USE together](https://)|1 year subscription|ProductiveTools|
-|[Algolia](https://)|1 year subscription|Infrastructure|
+|[Algolia](https://www.algolia.com/blog/algolia/github-student-developer-pack/)|1 year subscription|Infrastructure|
 |[Better Code Hub](https://bettercodehub.com/github-student-developer-pack)|Individual License & Access private repos|Developing Tools|
 |[Daily BOT](https://www.dailybot.com/pricing)|6 Months Business|Productivity|
 |[POEditor](https://poeditor.com/blog/translation-localization-educational-projects/)|1 year subscription|Developer Tools & Infrastructure|
