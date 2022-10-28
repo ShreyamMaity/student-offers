@@ -105,17 +105,17 @@
 |[CryptoLens](https://app.cryptolens.io/user/githubstudent)|Create up to 10 licenses and any number of end users for free|Software Licensing|
 |[Jaamly](https://)|6 Months startup plan|Marketing|
 |[BrowserStack](https://www.browserstack.com/)|Automate 1 year plan|Developing Tools|
-|[Freshpoint](https://www.freshpoint.com/news/page/6/)|Growth Plan|Marketing & APIs|
+|[Freshpoint](https://)|Growth Plan|Marketing & APIs|
 |[blackfire.io](https://)|Profiler Subscription|Security & Analytics|
 |[Neve’s](https://themeisle.com/github-students/)|1 year agency wordpress theme|Design & APIs|
 |[Codecov](https://about.codecov.io/)|Public & Private repositories|Developer Tools|
-|[CART](https://cart.org/)|2 Years Premium Plan|Infrastructure|
+|[CART](https://)|2 Years Premium Plan|Infrastructure|
 |[Customerly](https://)|6 months pro plan|Infrastructure & Marketing|
 |[SQLGATE](https://www.sqlgate.com/pricing/subscription?language=en)|1 Years Plan Subscription|Tools|
 |[Vaadin](https://vaadin.com/student-program)|Pro Subscription|Infrastructure & APIs|
 |[Restyled](https://)|Private Repositories|Tools|
 |[Deepscan](https://deepscan.io/github-student-pack)|6 Months premium plan|Tools|
-|[Weglot](https://)|1 year|Tools & Infrastructure & APIS|
+|[Weglot](https://weglot.com/solutions/education/)|1 year|Tools & Infrastructure & APIS|
 |[CodeScene](https://codescene.com/github-students)|Private Github repositories|Security & Analytics|
 |[Simple Analytics](https://)|1 year subscription|Infrastructure & Marketing|
 |[USE together](https://)|1 year subscription|ProductiveTools|
