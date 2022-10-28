@@ -88,7 +88,7 @@
 |[Flatiron School](https://flatironschool.com/)|1 month Subscription|Learn|
 |[IMGBOT](https://github.com/marketplace/imgbot/plan/MLP_kgDNGw8#pricing-and-setup)|Free Image Optimisation|Infrastructure|
 |[POPSQL](https://popsql.com/github-students)|Premium Plan|Developers Tools|
-|[DATADOG](https://)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
+|[DATADOG](https://www.datadoghq.com/blog/datadog-github-student-developer-pack/)|Pro Account + 10 Servers + 2 Years Plan|Security & Analytics|
 |[Kodika.io](https://kodika.io/pricing/)|Unlimited Pro Plan 6 Months – Build iOS Applications|Design & Mobile|
 |[Stripe](https://)|No transaction fee on \$1000 Revenue|Infrastructure & APIs|
 |[Adafruit](https://www.adafruit.com/github-students)|1 year subscription|Internet of Things & Infrastructure APIs|
