@@ -109,17 +109,17 @@
 |[blackfire.io](https://)|Profiler Subscription|Security & Analytics|
 |[Neve’s](https://themeisle.com/github-students/)|1 year agency wordpress theme|Design & APIs|
 |[Codecov](https://about.codecov.io/)|Public & Private repositories|Developer Tools|
-|[CART](https://cart.org/)|2 Years Premium Plan|Infrastructure|
+|[CART](https://)|2 Years Premium Plan|Infrastructure|
 |[Customerly](https://)|6 months pro plan|Infrastructure & Marketing|
 |[SQLGATE](https://www.sqlgate.com/pricing/subscription?language=en)|1 Years Plan Subscription|Tools|
 |[Vaadin](https://vaadin.com/student-program)|Pro Subscription|Infrastructure & APIs|
 |[Restyled](https://)|Private Repositories|Tools|
 |[Deepscan](https://deepscan.io/github-student-pack)|6 Months premium plan|Tools|
-|[Weglot](https://weglot.com/solutions/education/)|1 year|Tools & Infrastructure & APIS|
+|[Weglot](https://)|1 year|Tools & Infrastructure & APIS|
 |[CodeScene](https://codescene.com/github-students)|Private Github repositories|Security & Analytics|
-|[Simple Analytics](https://simpleanalytics.com/students)|1 year subscription|Infrastructure & Marketing|
+|[Simple Analytics](https://)|1 year subscription|Infrastructure & Marketing|
 |[USE together](https://)|1 year subscription|ProductiveTools|
-|[Algolia](https://www.algolia.com/blog/algolia/github-student-developer-pack/)|1 year subscription|Infrastructure|
+|[Algolia](https://)|1 year subscription|Infrastructure|
 |[Better Code Hub](https://bettercodehub.com/github-student-developer-pack)|Individual License & Access private repos|Developing Tools|
 |[Daily BOT](https://www.dailybot.com/pricing)|6 Months Business|Productivity|
 |[POEditor](https://poeditor.com/blog/translation-localization-educational-projects/)|1 year subscription|Developer Tools & Infrastructure|
@@ -127,7 +127,7 @@
 |[Kaltura](https://corp.kaltura.com/)|\$10K/year Credits|Infrastructure|
 |[astra](https://www.getastra.com/github-student-developer-pack)|6 months Subscription|Security & Analytics|
 |[Pushbots](https://pushbots.com/for/education/)|6 months Subscription|Infrastructure|
-|[LingoHub](https://lingohub.com/github-students)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
+|[LingoHub](https://)|Professional Plan with 10,000 text segments|Infrastructure, Productivity|
 |[Sider](https://)|Standard|Tools|
 |[Blockchair](https://blockchair.com/)|100,000 free requests|Infrastructure|
 |[Datree:Combat misconfigurations](https://www.datree.io/)|Pro Subscription|Tools|
