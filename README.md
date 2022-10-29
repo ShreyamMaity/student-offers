@@ -103,10 +103,10 @@
 |[Newegg Premier](https://www.newegg.com/neweggpremier)|Discounts|shopping|
 |[Mnx.io](https://mnx.io/pricing)|**\$50 credit in cloud hosting for students, valid for 1 year.**|Cloud Server|
 |[DNS simple](https://dnsimple.com/signup)|DNS Simple student license|DNS data observation|
-|[Orchestrate.io](https://)|Free developer account|database service|
+|[Orchestrate.io](https://orchestration.io/)|Free developer account|database service|
 |[Send grid](https://)|Student License|STMP mail system|
 |[Bitnami](https://bitnami.com/)|Student License free|pre-packaged images for automated setup of popular server software on Windows, Mac OS|
-|[Crowflower](https://)|Student License|AI ML training software|
+|[Crowdflower](https://www.truelancer.com/crowdflower-online-jobs-freelancer-job)|Student License|AI ML training software|
 |[Squarespace](https://www.squarespace.com/coupons)|Discount and Free months|education|
 |[Students beans](https://www.studentbeans.com/student-discount/uk/all)|Membership ID|student ID for discounts|
 |[Themescale](https://www.timescale.com/)|Wordpress themes license for 1 year|Website|
