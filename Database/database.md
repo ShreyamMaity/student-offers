@@ -97,7 +97,7 @@
 |[ScrapingHub](https://)|1 free scrapy Cloud Unit|Developer Tools|
 |[Covalence](https://)|1 month Subscription|Learn|
 |[deepsource](https://)|Pro Subscription|Tools|
-|[TOWER](https://)|Pro Subscription|Developer Tools|
+|[TOWER](https://www.git-tower.com/students/windows)|Pro Subscription|Developer Tools|
 |[Gitpod](https://gitpod.io/plans/)|6 months personal plan subscription|Developer Tools & Learn|
 |[Sentry](https://sentry.io/for/education/)|Unlimited team members and 10GB attachments per month for free|Crash Reporting|
 |[XOJO](https://www.xojo.com/githubstudent/)|Desktop License|Design & Developer Tools|
