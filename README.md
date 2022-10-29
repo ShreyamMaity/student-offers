@@ -171,7 +171,7 @@
 |[logDNA](https://www.mezmo.com/blog/get-a-free-logdna-account-in-the-github-student-developer-pack)|50GB/monthly 1 year plan|Security & Analytics|
 |[Sofy](https://www.mezmo.com/blog/get-a-free-logdna-account-in-the-github-student-developer-packs://)|6 Months premium plan|Tools & Mobile|
 |[Transloadit](https://transloadit.com/github-students/)|10 GB Startup Plan|Infrastructure & Tools|
-|[Phrase](https://)|12 months premium plan|Infrastructure & Tools|
+|[Phrase](https://bit.ly/PhraseOffer)|12 months premium plan|Infrastructure & Tools|
 |[Coveralls](https://coveralls.io/github-students)|Unlimited private repos access|Tools|
 |[Yakindu](https://www.itemis.com/en/yakindu/state-machine/yakindu-universities/)|12 months premium|Learn|
 |[Crowdin](https://crowdin.com/page/github-students)|12 months premium|Tools, Infrastructure , Productivity|
