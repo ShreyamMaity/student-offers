@@ -77,7 +77,7 @@
 |[Orchestrate.io](https://)|Free developer account|database service|
 |[Send grid](https://)|Student License|STMP mail system|
 |[Bitnami](https://bitnami.com/)|Student License free|pre-packaged images for automated setup of popular server software on Windows, Mac OS|
-|[Crowflower](https://)|Student License|AI ML training software|
+|[Crowdflower](https://www.truelancer.com/crowdflower-online-jobs-freelancer-job)|Student License|AI ML training software|
 |[Squarespace](https://www.squarespace.com/coupons)|Discount and Free months|education|
 |[Students beans](https://www.studentbeans.com/student-discount/uk/all)|Membership ID|student ID for discounts|
 |[Themescale](https://www.timescale.com/)|Wordpress themes license for 1 year|Website|
