@@ -181,7 +181,7 @@
 |[Testbook Offer for Visa Cards](https://testbook.com/offers/5c6d38b3fdb8bb27ca727f62)|Up to 60% OFF + 15% OFF on Testbook Pass|Tools & Mobile|
 |[Clean My Mac](https://macpaw.com/store/cleanmymac)|30% off on lifetime edition and annual plans|Tools & PC|
 |[SpiceJet](https://corporate.spicejet.com/studentdiscountlanding.aspx)|SpiceJet will provide up to 10% discount on the base fare on direct domestic ﬂights|
-|[Qoddi](https://blog.qoddi.com/flashdrive-student-program/)| Qoddi is a web hosting platform which offers $1000 per year for every student| Web Hosting|
+|[Qoddi](https://blog.qoddi.com/flashdrive-student-program/)| Qoddi is a web hosting platform which offers $250 per year for every student| Web Hosting|
 |[Autodesk](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)| AutoDesk is a Software company for Architecture softwares. They give special discounts to students. | Architecture Design, CAD |
 |[Audible](https://www.amazon.com/hz/audible/mlp?ie=UTF8&tag=colinfgee-20)| Access a selection of Audible Originals, audiobooks, and podcasts including exclusive series.| Learning |
 |[YouNeedABudget](https://www.youneedabudget.com/college/)| Free budgeting software for college students with student ID| Tools |
