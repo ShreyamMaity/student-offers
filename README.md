@@ -70,7 +70,7 @@
 |[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
 |[next.tech](https://next.tech/)|1 year Subscription|Developing & Learn|
 |[ATOM](https://atomlearning.co.uk/pricing)|Annual Subscription|Tools|
-|[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit)|6 months Subscription|Internet of Things & Infrastructure|
+|[Arduino Education](https://www.arduino.cc/education/explore-iot-kit)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 year Subscription|Design &  Marketing|
 |[netwise.](https://www.netwise.co.uk/students/)|1 year Subscription|Cloud & Internet of Things|
 |[HazeOver](https://hazeover.com/)|Lifetime|Productivity|
@@ -87,7 +87,7 @@
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
 |[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
 |[Gliffy](https://help.gliffy.com/online/Content/GliffyOnline/free_for_students.htm)|Free account for active students|Diagram Drawing|
-|[Portfolio Box Pro](https://https://www.portfoliobox.net/students)|Student License|Portfolio creation|
+|[Portfolio Box Pro](https://www.portfoliobox.net/students)|Student License|Portfolio creation|
 |[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://www.tableau.com/academic/students)|1 Year free Student License|Data Analysing|
 |[Tableau Prep Builder](https://www.tableau.com/products/prep)|1 Year Student License|Data Cleaner For Data Analysis|
