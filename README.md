@@ -220,6 +220,8 @@
 |[Printful](https://www.printful.com/student-deals)|Free shipping on custom printed products|Product|
 |[Realme](https://www.realme.com/eu/student-discount)|5% extra Disocunt on phones and gadgets|Electronics|
 |[Youtube](https://www.youtube.com/premium/student)| 1-month free trial and ₹79.00/month after trail|Streaming|
+|[OPPO](https://www.oppo.com/in/store/contents/education-program/)| 5% off on electronics purchased from the online store |Electronics|
+|[Chess.com](https://www.chess.com/offer?coupon=INSTUDENTDISCOUNT)| Get unlimited Game Reviews, Puzzles, Lessons, and more for 25% off the regular price. |Game|
 
 <!--END_SECTION:cp-->
 
