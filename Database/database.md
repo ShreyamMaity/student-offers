@@ -41,7 +41,7 @@
 |[Pageclip](https://pageclip.co/github-students)|Basic Plan subscription|Infrastructure|
 |[next.tech](https://next.tech/)|1 year Subscription|Developing & Learn|
 |[ATOM](https://atomlearning.co.uk/pricing)|Annual Subscription|Tools|
-|[Arduino Education](https://https://www.arduino.cc/education/explore-iot-kit)|6 months Subscription|Internet of Things & Infrastructure|
+|[Arduino Education](https://www.arduino.cc/education/explore-iot-kit)|6 months Subscription|Internet of Things & Infrastructure|
 |[Typeform](https://product.typeform.com/github/)|1 year Subscription|Design &  Marketing|
 |[netwise.](https://www.netwise.co.uk/students/)|1 year Subscription|Cloud & Internet of Things|
 |[HazeOver](https://hazeover.com/)|Lifetime|Productivity|
