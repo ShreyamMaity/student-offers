@@ -190,4 +190,4 @@
 |[Netlify](https://www.netlify.com/)|FREE server for website hosting|Web Development|
 |[Printful](https://www.printful.com/student-deals)|Free shipping on custom printed products|Product|
 |[Realme](https://www.realme.com/eu/student-discount)|5% extra Disocunt on phones and gadgets|Electronics|
-|[Youtube](https://www.youtube.com/premium/student)| 1-month free trial and ₹79.00/month after trail|Streaming|
+|[Youtube](https://www.youtube.com/premium/student)| 1-month free trial and ₹89.00/month after trail|Streaming|
