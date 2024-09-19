@@ -97,10 +97,9 @@
 |[Amazon Prime Student (.com)](https://www.amazon.in/b?ie=UTF8&node=15307611031)|6 month Prime + prime videos(all region) + deals 7 discounts|Shopping|
 |[Unidays](https://www.myunidays.com/US/en-US)|Student Discounts|Shopping|
 |[SheerID](https://www.sheerid.com/shoppers/studentdeals/)|Student Discount|Shopping|
-|[OnTheHub](https://onthehub.com/)|Discounts on softwares for Stdents,Faculty and staff|Softwares|
+|[OnTheHub](https://onthehub.com/)|Discounts on softwares for Students, Faculty and staff|Softwares|
 |[PTC student](https://www.ptc.com/en/products/education/free-software/creo-college-download)|Student License|3D CAD|
 |[Intel education software](https://www.intel.com/content/www/us/en/education/intel-education.html)|Student License|Development|
-|[Newegg Premier](https://www.newegg.com/neweggpremier)|Discounts|shopping|
 |[Mnx.io](https://mnx.io/pricing)|**\$50 credit in cloud hosting for students, valid for 1 year.**|Cloud Server|
 |[DNS simple](https://dnsimple.com/signup)|DNS Simple student license|DNS data observation|
 |[Send grid](https://sendgrid.com/pricing/)|Student License|STMP mail system|
