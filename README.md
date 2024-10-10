@@ -87,7 +87,7 @@
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
 |[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
 |[Gliffy](https://help.gliffy.com/online/Content/GliffyOnline/free_for_students.htm)|Free account for active students|Diagram Drawing|
-|[Portfolio Box Pro](https://https://www.portfoliobox.net/students)|Student License|Portfolio creation|
+|[Portfolio Box Pro](https://www.portfoliobox.net/students)|Student License|Portfolio creation|
 |[Lumion Pro](https://lumion.com/educational-licenses.html)|Student License|3D Rendering software|
 |[Tableau Desktop](https://www.tableau.com/academic/students)|1 Year free Student License|Data Analysing|
 |[Tableau Prep Builder](https://www.tableau.com/products/prep)|1 Year Student License|Data Cleaner For Data Analysis|
