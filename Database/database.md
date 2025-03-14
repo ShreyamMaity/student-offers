@@ -197,3 +197,4 @@
 |[Image-Line FL Studio](https://www.image-line.com/edu-licenses/)|Discounts on FL Studio|Music Production|
 |[Avid Pro Tools](https://www.avid.com/academic-eligibility)|Discounts on Avid Pro Tools|Music Production|
 |[Antares](https://identit-e.com/antaresaudiotech)|50% Off on Antares Tech Products|Music Production|
+|[Chess.com](https://www.chess.com/students)|Student offer upto 50% off (valid for limited countries only)|Game|
