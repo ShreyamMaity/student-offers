@@ -221,6 +221,7 @@
 |[Realme](https://www.realme.com/eu/student-discount)|5% extra Disocunt on phones and gadgets|Electronics|
 |[Youtube](https://www.youtube.com/premium/student)| 1-month free trial and ₹79.00/month after trail|Streaming|
 |[Perplexity](https://www.perplexity.ai/backtoschool)| Perplexity 1-Year Free Pro Subscription for Eligible Colleges|AI-powered research|
+|[Gemini](https://gemini.google/students)|College students get Gemini upgrade for 1 year for FREE|AI-powered research|
 
 <!--END_SECTION:cp-->
 

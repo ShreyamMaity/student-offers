@@ -198,3 +198,4 @@
 |[Avid Pro Tools](https://www.avid.com/academic-eligibility)|Discounts on Avid Pro Tools|Music Production|
 |[Antares](https://identit-e.com/antaresaudiotech)|50% Off on Antares Tech Products|Music Production|
 |[Perplexity](https://www.perplexity.ai/backtoschool)| Perplexity 1-Year Free Pro Subscription for Eligible Colleges|AI-powered research|
+|[Gemini](https://gemini.google/students)|College students get Gemini upgrade for 1 year for FREE|AI-powered research|
