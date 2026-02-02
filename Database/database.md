@@ -190,6 +190,8 @@
 |[Printful](https://www.printful.com/student-deals)|Free shipping on custom printed products|Product|
 |[Realme](https://www.realme.com/eu/student-discount)|5% extra Disocunt on phones and gadgets|Electronics|
 |[Youtube](https://www.youtube.com/premium/student)| 1-month free trial and ₹79.00/month after trail|Streaming|
+|[OPPO](https://www.oppo.com/in/store/contents/education-program/)| 5% off on electronics purchased from the online store |Electronics|
+|[Chess.com](https://www.chess.com/offer?coupon=INSTUDENTDISCOUNT)| Get unlimited Game Reviews, Puzzles, Lessons, and more for 25% off the regular price. |Game|
 |[Spitfire Audio](https://www.spitfireaudio.com/education-program)|30%-50% Discount on Digital Instruments|Music Production|
 |[Ableton](https://www.ableton.com/en/shop/education/)|50% Off on Ableton Live|Music Production|
 |[Steinberg](https://www.steinberg.net/education/students-teachers/)|Up to 50% Off on Steinberg Cubase|Music Production|
@@ -197,3 +199,4 @@
 |[Avid Pro Tools](https://www.avid.com/academic-eligibility)|Discounts on Avid Pro Tools|Music Production|
 |[Antares](https://identit-e.com/antaresaudiotech)|50% Off on Antares Tech Products|Music Production|
 |[Perplexity](https://www.perplexity.ai/backtoschool)| Perplexity 1-Year Free Pro Subscription for Eligible Colleges|AI-powered research|
+
