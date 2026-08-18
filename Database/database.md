@@ -197,3 +197,4 @@
 |[Antares](https://identit-e.com/antaresaudiotech)|50% Off on Antares Tech Products|Music Production|
 |[Perplexity](https://pplx.ai/education-plan)| Perplexity 1-Year Free Pro Subscription with Comet|AI-powered research|
 |[Requestly](https://requestly.com/github-education/)|Free 1-year Requestly Professional (worth $270) via GitHub Student Pack|Developers Tools|
+|[PDF2GO](https://www.pdf2go.com/solution/education)| PDF2GO 1-Year Free Education Subscription for Students and Teachers in Colleges,Universities|Productivity|
