@@ -196,3 +196,4 @@
 |[Avid Pro Tools](https://www.avid.com/academic-eligibility)|Discounts on Avid Pro Tools|Music Production|
 |[Antares](https://identit-e.com/antaresaudiotech)|50% Off on Antares Tech Products|Music Production|
 |[Perplexity](https://pplx.ai/education-plan)| Perplexity 1-Year Free Pro Subscription with Comet|AI-powered research|
+|[Requestly](https://requestly.com/github-education/)|Free 1-year Requestly Professional (worth $270) via GitHub Student Pack|Developers Tools|
