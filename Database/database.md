@@ -198,3 +198,4 @@
 |[Perplexity](https://pplx.ai/education-plan)| Perplexity 1-Year Free Pro Subscription with Comet|AI-powered research|
 |[Requestly](https://requestly.com/github-education/)|Free 1-year Requestly Professional (worth $270) via GitHub Student Pack|Developers Tools|
 |[PDF2GO](https://www.pdf2go.com/solution/education)| PDF2GO 1-Year Free Education Subscription for Students and Teachers in Colleges,Universities|Productivity|
+|[Gemini](https://gemini.google/students/?hl=en-IN)|Gemini 1-Year free Pro Subscription, NotebookLM, 2TB storage|AI|
