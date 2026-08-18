@@ -172,7 +172,7 @@
 |[StudentMoneySaver](https://www.studentmoneysaver.co.uk/)|Provide lucrative discounts on top brands for students| Shopping |
 |[Dell](https://www.dell.com/en-in/lp/student-laptop-discount#Featured-Student-Laptops)|Provide discounts on laptops and free delivery for students|Products|
 |[Lenovo Student Store](https://www.lenovo.com/in/en/d/students-offer/)| Special discounts for College and School Students |Products|
-|[Air India](https://www.airindia.in/student-concession.htm)|Student concession on flights|Travel|
+|[Air India](https://www.airindia.com/in/en/book/exclusive-deals/student-flight-offer.html)|Students enjoy up to 25% off on flight bookings|Travel|
 |[Mubi](https://mubi.com/promos/student-india)|90 days of hand-picked films for free. Only for students.| Cinema Streaming |
 |[VOXI for Students](https://www.voxi.co.uk/acquisition/students)|Students get first month free.|Cellular Data|
 |[Amazon](https://www.primevideo.com/)|Student concession on prime video|entertainment|
