@@ -35,7 +35,7 @@ Experience an advanced career journey with us! 🚀
 
 <p align="center">
   <a href="https://app.zapply.jobs/onboarding?ref=github-cta-shreyammaity">
-    <img src="get-started-button.png" alt="Visit Zapply" width="320">
+    <img src="get-started-button.png" alt="Visit Zapply" width="700">
   </a>
 </p>
 
