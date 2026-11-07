@@ -240,6 +240,7 @@ Experience an advanced career journey with us! 🚀
 |[Realme](https://www.realme.com/eu/student-discount)|5% extra Disocunt on phones and gadgets|Electronics|
 |[Youtube](https://www.youtube.com/premium/student)| 1-month free trial and ₹79.00/month after trail|Streaming|
 |[Perplexity](https://www.perplexity.ai/backtoschool)| Perplexity 1-Year Free Pro Subscription for Eligible Colleges|AI-powered research|
+|[Remote Frontend Jobs](https://www.remotefrontendjobs.com/junior)|Pro free for 2 months when you sign up with your school email: remote jobs 24 hours early, daily matched picks, AI search. Junior & internship job page with email alerts.|Job Search|
 
 <!--END_SECTION:cp-->
 
